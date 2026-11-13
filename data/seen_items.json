@@ -39,6 +39,46 @@
       "title": "Introducing ChatGPT Wallet",
       "url": "https://openai.com/index/introducing-chatgpt-wallet",
       "seen_at": "2026-11-13T18:30:34.264410+00:00"
+    },
+    "07fb101d77d4b8cb0bd6557564e0ac8e6178d4874ffdb5b92a602add1bd024fa": {
+      "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+      "url": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+      "seen_at": "2026-11-13T19:31:52.805337+00:00"
+    },
+    "5118e84111e9ed9f3b243dc0a7e2cad7143b1da886e4f9d04cd41b4f3c5e2bd9": {
+      "title": "Cost attribution and controls for AI developer and productivity tools on Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cost-attribution-and-controls-for-ai-developer-and-productivity-tools-on-amazon-bedrock/",
+      "seen_at": "2026-11-13T19:31:52.805357+00:00"
+    },
+    "6669a4d19d8d97224289adfc1607cbb5f50d4308d4df212bbb50c43649358efb": {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "seen_at": "2026-11-13T19:31:52.805362+00:00"
+    },
+    "579aa129bfed87fd3cd5a70e8bd7a3ec49d850a6e47d92a2028af0191cda8403": {
+      "title": "The avalanche that hit math is coming for AI development",
+      "url": "https://www.dwarkesh.com/p/rsi",
+      "seen_at": "2026-11-13T19:31:52.805366+00:00"
+    },
+    "0ed365b965dfda3047d5391b1ec5526124b3d31a053b1d1ef90ea4ecda1b9020": {
+      "title": "Models can now transmit viruses in weight-space",
+      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
+      "seen_at": "2026-11-13T19:31:52.805371+00:00"
+    },
+    "6841e619fcd7e8d9370258a227590a244c9afe604f7f173c18d14806c323db86": {
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "seen_at": "2026-11-13T19:31:52.805374+00:00"
+    },
+    "a0730e6c360a165831b46ef45b50e486f9a32c6d16334cf5d3eb9537bfee4743": {
+      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
+      "seen_at": "2026-11-13T19:31:52.805378+00:00"
+    },
+    "67672a694e389b29af5588bf1be29a978063408e3c6a0262fcadf6da500500d7": {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "seen_at": "2026-11-13T19:31:52.805381+00:00"
     }
   },
   "repositories": {
@@ -61,7 +101,27 @@
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
       "seen_at": "2026-11-13T18:30:34.264435+00:00"
+    },
+    "bfef0c14f46af5da34f699a433d9bdfb9ef9e6eb1b283596ecb2d7f39cd88479": {
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "seen_at": "2026-11-13T19:31:52.805385+00:00"
+    },
+    "dd500add2d21e1c75346780e2948a00ae24693353ef84d2d37c55148124cfd43": {
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "seen_at": "2026-11-13T19:31:52.805389+00:00"
+    },
+    "61b98383e7d935899f8d4a9094c16187a0354e5385dcd1d45f91e3574ab6f8e1": {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "seen_at": "2026-11-13T19:31:52.805392+00:00"
+    },
+    "d3682563581ea69249623f7e6f1c9444a59e4d5fab77409eb5c10998afa409ed": {
+      "title": "nilbuild/developer-roadmap",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "seen_at": "2026-11-13T19:31:52.805395+00:00"
     }
   },
-  "last_updated": "2026-11-13T18:30:34.264966+00:00"
+  "last_updated": "2026-11-13T19:31:52.805446+00:00"
 }
