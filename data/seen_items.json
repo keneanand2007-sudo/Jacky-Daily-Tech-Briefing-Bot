@@ -1,0 +1,67 @@
+{
+  "items": {
+    "640ded743fc83f21e89a304b8b8449912a65953b24a8085387d408e3341c9203": {
+      "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+      "url": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+      "seen_at": "2026-11-13T18:30:34.264348+00:00"
+    },
+    "1a853c46576253c845a61fa083f5b2e8d31e18018f98316c29855f590df3d54a": {
+      "title": "Build a model improvement flywheel with Amazon SageMaker HyperPod Data Capture",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-a-model-improvement-flywheel-with-amazon-sagemaker-hyperpod-data-capture/",
+      "seen_at": "2026-11-13T18:30:34.264372+00:00"
+    },
+    "cdc8eef67bc55a0d0fa5ca86f75a39576cb4cd55b8ad20129c59ea60f80062cd": {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "seen_at": "2026-11-13T18:30:34.264381+00:00"
+    },
+    "5a06cd56282b89f9ddf5079ee417d27f2a5f2608624ed1be1074174f97e4b523": {
+      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+      "url": "https://isometricsf.com/",
+      "seen_at": "2026-11-13T18:30:34.264388+00:00"
+    },
+    "8c9ba4b267174e41c37c50baa2e878b0df4f9a6124bf2347d933cd077b56380e": {
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "seen_at": "2026-11-13T18:30:34.264393+00:00"
+    },
+    "a0496c5bf3e13becfa77bc15cf5e884ae0edce5e3221442341351daf7244af9d": {
+      "title": "Jensen Huang was reckless with the environment, too",
+      "url": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+      "seen_at": "2026-11-13T18:30:34.264399+00:00"
+    },
+    "96c7f67bef86f8316048a87fd511efdf23e6f81e02406769c1ce381b73c81b1f": {
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "seen_at": "2026-11-13T18:30:34.264405+00:00"
+    },
+    "7d4d71d056da02862d0b2ec1b87dadd7019731481c576401840bf8ff718ee663": {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "seen_at": "2026-11-13T18:30:34.264410+00:00"
+    }
+  },
+  "repositories": {
+    "0fac45359c2058b499648b5eb3c303324df11a4e8665b54e7996b6b81aa0b6f0": {
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "seen_at": "2026-11-13T18:30:34.264417+00:00"
+    },
+    "0658d7fa2f877963fc8bbc1645c8cf4fea9ea47495521d064c5f014cc5aec79e": {
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "seen_at": "2026-11-13T18:30:34.264423+00:00"
+    },
+    "a5b6cf30f0c2b39ab866774e61de70b533f2e7ef10e2f3772a8915e65ceed7ef": {
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "seen_at": "2026-11-13T18:30:34.264428+00:00"
+    },
+    "f63476205a959f3f3803c2283f365f6a535c10385461088bf7672df4b747dd4e": {
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "seen_at": "2026-11-13T18:30:34.264435+00:00"
+    }
+  },
+  "last_updated": "2026-11-13T18:30:34.264966+00:00"
+}
