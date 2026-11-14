@@ -1,4 +1,3 @@
-
 import os
 import re
 import json
@@ -188,6 +187,36 @@ def youtube_search_link(title):
     query = quote_plus(title + " explained tutorial")
 
     return f"https://www.youtube.com/results?search_query={query}"
+
+
+def normalize_chat_id(value):
+    """Normalize Telegram chat IDs from GitHub secrets."""
+
+    if value is None:
+        return None
+
+    candidate = str(value).strip()
+
+    if not candidate:
+        return None
+
+    try:
+        return int(candidate)
+    except ValueError:
+        return candidate
+
+
+def strip_telegram_html(value):
+    """Convert Telegram HTML into plain-text safe content."""
+
+    if not value:
+        return ""
+
+    text = html.unescape(value)
+    text = re.sub(r"<br\s*/?>", "\n", text, flags=re.IGNORECASE)
+    text = re.sub(r"</?(?:b|strong|i|em|u|s|code|pre|a|span)[^>]*>", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"<[^>]+>", "", text)
+    return text.strip()
 
 
 # ============================================================
@@ -565,7 +594,6 @@ def fetch_rss_news(history):
 
                 published = parse_feed_entry_date(entry)
 
-                # Do not present undated articles as fresh news.
                 if not published or published < cutoff:
                     continue
 
@@ -796,10 +824,12 @@ def build_briefing(repositories, news):
 # ============================================================
 
 def split_message(message, limit=3800):
-    """Split long messages without breaking paragraphs."""
+    """Split a message into smaller chunks without breaking paragraphs."""
+
+    if not message:
+        return []
 
     paragraphs = message.split("\n\n")
-
     chunks = []
     current = ""
 
@@ -821,12 +851,7 @@ def split_message(message, limit=3800):
             remaining = paragraph
 
             while len(remaining) > limit:
-
-                split_at = remaining.rfind(
-                    "\n",
-                    0,
-                    limit
-                )
+                split_at = remaining.rfind("\n", 0, limit)
 
                 if split_at == -1:
                     split_at = limit
@@ -848,59 +873,107 @@ def split_message(message, limit=3800):
     return chunks
 
 
+def log_telegram_error(payload, response):
+    """Log Telegram API error details safely without printing secrets."""
+
+    try:
+        body = response.json()
+    except ValueError:
+        body = None
+
+    error_code = body.get("error_code") if isinstance(body, dict) else None
+    description = body.get("description") if isinstance(body, dict) else None
+    text = payload.get("text") or ""
+
+    logging.error(
+        "Telegram API rejected message chunk: HTTP=%s error_code=%s description=%s text_length=%s parse_mode=%s chat_id=%s",
+        response.status_code,
+        error_code,
+        description or "No description returned",
+        len(text),
+        payload.get("parse_mode", "plain"),
+        "SET" if payload.get("chat_id") is not None else "MISSING"
+    )
+
+
 def send_telegram_message(message):
     """Send the briefing through Telegram Bot API."""
 
     if not BOT_TOKEN or not CHAT_ID:
+        logging.error("Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID.")
+        return False
 
-        logging.error(
-            "Missing TELEGRAM_BOT_TOKEN or TELEGRAM_CHAT_ID."
-        )
-
+    chat_id = normalize_chat_id(CHAT_ID)
+    if chat_id is None:
+        logging.error("Telegram chat ID is empty after normalization.")
         return False
 
     chunks = split_message(message)
+    if not chunks:
+        logging.warning("No Telegram message chunks were generated.")
+        return False
 
-    endpoint = (
-        f"{TELEGRAM_API}{BOT_TOKEN}/sendMessage"
-    )
+    endpoint = f"{TELEGRAM_API}{BOT_TOKEN}/sendMessage"
 
     for index, chunk in enumerate(chunks, start=1):
+        attempts = [
+            {
+                "chat_id": chat_id,
+                "text": chunk,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True
+            },
+            {
+                "chat_id": chat_id,
+                "text": strip_telegram_html(chunk),
+                "disable_web_page_preview": True
+            }
+        ]
 
-        try:
-            response = session.post(
-                endpoint,
-                json={
-                    "chat_id": CHAT_ID,
-                    "text": chunk,
-                    "parse_mode": "HTML",
-                    "disable_web_page_preview": True
-                },
-                timeout=REQUEST_TIMEOUT
-            )
+        for attempt in attempts:
+            try:
+                response = session.post(
+                    endpoint,
+                    json=attempt,
+                    timeout=REQUEST_TIMEOUT
+                )
 
-            response.raise_for_status()
+                try:
+                    body = response.json()
+                except ValueError:
+                    body = None
 
-            result = response.json()
+                if response.status_code >= 400 or (
+                    isinstance(body, dict) and not body.get("ok", True)
+                ):
+                    log_telegram_error(attempt, response)
+                    continue
 
-            if not result.get("ok"):
-                logging.error(
-                    "Telegram rejected message: %s",
-                    result
+                if isinstance(body, dict) and body.get("ok") is False:
+                    logging.error(
+                        "Telegram rejected message chunk %s/%s: %s",
+                        index,
+                        len(chunks),
+                        body
+                    )
+                    continue
+
+                logging.info(
+                    "Telegram message delivered: %s/%s",
+                    index,
+                    len(chunks)
+                )
+                break
+
+            except requests.RequestException:
+                logging.exception(
+                    "Telegram delivery failed for chunk %s/%s.",
+                    index,
+                    len(chunks)
                 )
                 return False
 
-            logging.info(
-                "Telegram message delivered: %s/%s",
-                index,
-                len(chunks)
-            )
-
-        except requests.RequestException:
-            logging.exception(
-                "Telegram delivery failed."
-            )
-
+        else:
             return False
 
     return True
@@ -948,8 +1021,6 @@ def main():
         )
 
         raise SystemExit(1)
-
-    # Save records only after successful delivery.
 
     for item in selected_news:
 
