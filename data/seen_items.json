@@ -199,6 +199,46 @@
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "seen_at": "2026-11-14T19:59:08.255570+00:00"
+    },
+    "714d1e956728edb2f6613460b6969eb00592e6aaec8d3c9339571658bebcf2c6": {
+      "title": "L3Harris Statement on the Nov. 13 Ground Stop",
+      "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+      "seen_at": "2026-11-14T23:50:00.256298+00:00"
+    },
+    "d5d8547e961af0e1fab17e8555318aea8eac984e68115a24bc37fa22ba099818": {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "seen_at": "2026-11-14T23:50:00.256324+00:00"
+    },
+    "04d059df669879a50a4e780731177006ea0f921ba3144c87968bfdfc5500d477": {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "seen_at": "2026-11-14T23:50:00.256332+00:00"
+    },
+    "c319b12e1cc2fac305d4cfe6e48b75aa66041504b4434ef58e7c98feb0f4fd62": {
+      "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+      "url": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+      "seen_at": "2026-11-14T23:50:00.256341+00:00"
+    },
+    "e86112d5f8734949cf99172cb9838739ea22bce27cc0b3bf1287c316776dd886": {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "seen_at": "2026-11-14T23:50:00.256349+00:00"
+    },
+    "cbda9238a3684b28e47a3f036110852a357804594dae3b990092eac946cda973": {
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "seen_at": "2026-11-14T23:50:00.256355+00:00"
+    },
+    "0f5c21881c737acb9dc8fdf267afad8d4439e60e6ec0df3512a9e4df49b3b826": {
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+      "seen_at": "2026-11-14T23:50:00.256362+00:00"
+    },
+    "833534b672b8daa32acea1a5287042b791e6b060346eb3c7ba1affd8abb3fd3c": {
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "seen_at": "2026-11-14T23:50:00.256369+00:00"
     }
   },
   "repositories": {
@@ -301,7 +341,27 @@
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
       "seen_at": "2026-11-14T19:59:08.255582+00:00"
+    },
+    "f2db8404c222e36c8e02f933c816d92cbef85613dfa47bc8a4656a776a601059": {
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "seen_at": "2026-11-14T23:50:00.256376+00:00"
+    },
+    "b4321855507efcf027be057c2ad9ba355a64be24b181bc9d0459c2c73109a26e": {
+      "title": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "seen_at": "2026-11-14T23:50:00.256383+00:00"
+    },
+    "0be0ad180714f57c00ae467ddd48aa25a2db8415265025fe88a6c4af31aa2e02": {
+      "title": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "seen_at": "2026-11-14T23:50:00.256390+00:00"
+    },
+    "433d69852d17cbb41380a3e7ab150b68d42a13b3bcbd53ba5e59e1de1fd91719": {
+      "title": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "seen_at": "2026-11-14T23:50:00.256396+00:00"
     }
   },
-  "last_updated": "2026-11-14T19:59:08.255641+00:00"
+  "last_updated": "2026-11-14T23:50:00.256468+00:00"
 }
