@@ -159,6 +159,46 @@
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "url": "https://openai.com/business/customer-stories/gondola",
       "seen_at": "2026-11-14T15:17:42.054816+00:00"
+    },
+    "5ff08b1ef3e37111e45739b063899a14c7a853e0e742f1c6fcb0e1e3a871530c": {
+      "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+      "url": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+      "seen_at": "2026-11-14T19:59:08.255533+00:00"
+    },
+    "3cd2b0c41bcab09e067fa863fe197a4328e52cfe4508d57dc81fdce8455cb439": {
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "seen_at": "2026-11-14T19:59:08.255552+00:00"
+    },
+    "85e3933679b695fd54f9aa4a0876c0a2ae50a41d545b5b217fc37fb5c630d9f0": {
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "seen_at": "2026-11-14T19:59:08.255556+00:00"
+    },
+    "79e4236385ebb7a15a784e18ebb2a0d0201dfc30e6d73d6c82669d7aff2ac578": {
+      "title": "US IRS free online tax filing open source repo",
+      "url": "https://github.com/IRS-Public/direct-file",
+      "seen_at": "2026-11-14T19:59:08.255559+00:00"
+    },
+    "58deb18717b4d0fce44fbbd42dbb978468ffe6419cf6a55aada2fc3f4b838969": {
+      "title": "The 'europoors' rants reflect an American insecurity",
+      "url": "https://davekeating.substack.com/p/the-europoors-rants-reflect-an-american",
+      "seen_at": "2026-11-14T19:59:08.255562+00:00"
+    },
+    "4922ca6fb0dd92994c349853518621d0422aac137e6c9a194fc01e08fc5408aa": {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "seen_at": "2026-11-14T19:59:08.255565+00:00"
+    },
+    "d7c1da8cb7dc41da688b7a9908111a63cf9fb297a134e952ad2db42224ad8dc2": {
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "seen_at": "2026-11-14T19:59:08.255567+00:00"
+    },
+    "65b96c238445cdedc96b3e82ec1a6dd0c150d0317effbb199d997528a4ce6af2": {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "seen_at": "2026-11-14T19:59:08.255570+00:00"
     }
   },
   "repositories": {
@@ -241,7 +281,27 @@
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "seen_at": "2026-11-14T15:17:42.054828+00:00"
+    },
+    "4251a228ae407247ee1d7d951021b4d440d8e0312d373e621977c69484a3c030": {
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "seen_at": "2026-11-14T19:59:08.255573+00:00"
+    },
+    "5b33eb81f40747e0b05b3a942c054f7c139259240d83c965f83ec682b7722685": {
+      "title": "ultraworkers/claw-code",
+      "url": "https://github.com/ultraworkers/claw-code",
+      "seen_at": "2026-11-14T19:59:08.255576+00:00"
+    },
+    "65e281143ae0892ee8e3d7958d386e784bcea205e8b5b82ad75de107994f38be": {
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "seen_at": "2026-11-14T19:59:08.255579+00:00"
+    },
+    "7da69635176c3b46af22ec6ee3a7c258f22b2fb0a1b254365de81ea68fd3c754": {
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "seen_at": "2026-11-14T19:59:08.255582+00:00"
     }
   },
-  "last_updated": "2026-11-14T15:17:42.054903+00:00"
+  "last_updated": "2026-11-14T19:59:08.255641+00:00"
 }
