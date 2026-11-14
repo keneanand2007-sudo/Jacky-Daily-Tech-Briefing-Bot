@@ -119,6 +119,46 @@
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
       "seen_at": "2026-11-14T07:52:14.233548+00:00"
+    },
+    "74ce09572bbce703b96b4b59c53651a0d5ffb058eda5b7f3a2043b8b74d636e9": {
+      "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+      "url": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+      "seen_at": "2026-11-14T15:17:42.054778+00:00"
+    },
+    "6c2539c06ead4df205307d9679270241e557336527dc63b466a94dfd0d38ca8a": {
+      "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "seen_at": "2026-11-14T15:17:42.054797+00:00"
+    },
+    "a17ef475e2c86f35818cf1781c926ebaaa824002a91b38342c4325501e76f91c": {
+      "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+      "seen_at": "2026-11-14T15:17:42.054802+00:00"
+    },
+    "af7f8d8cd3854a599b3ab421d5233f6dc3f1639e5547e45c4641768cdbf677f2": {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "seen_at": "2026-11-14T15:17:42.054805+00:00"
+    },
+    "1ed6c2a0f5a907499243d72d051f98e69011758085bb2187720f03ca5476caea": {
+      "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+      "url": "https://github.com/FURSOY/fursoy-cpu",
+      "seen_at": "2026-11-14T15:17:42.054808+00:00"
+    },
+    "c7a410ad3b8628097c7278673e6a34ddff7e2c0f2dee6f72d49256797258779d": {
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "seen_at": "2026-11-14T15:17:42.054811+00:00"
+    },
+    "ed8dc20742e8870df2b87cc14d4dc84c2f863277785b47ea33675b0f592a26bc": {
+      "title": "A New Dawn in the Cloud: ‘Warhammer 40,000: Dawn of War IV’ Is Coming to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/",
+      "seen_at": "2026-11-14T15:17:42.054813+00:00"
+    },
+    "b9840fd67063a36a400d5e1d91fe182c1b415df6997c889b681a58ba22957843": {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "seen_at": "2026-11-14T15:17:42.054816+00:00"
     }
   },
   "repositories": {
@@ -181,7 +221,27 @@
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "seen_at": "2026-11-14T07:52:14.233568+00:00"
+    },
+    "89e612f6ea9737127b9b329445444f44f7241ee688ba40ab5c7214f62a9cc874": {
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "seen_at": "2026-11-14T15:17:42.054820+00:00"
+    },
+    "76ac06919f3e7bf0c69ffa8ca3ed6529efc9095e9f897ef6867c364b77e4410b": {
+      "title": "ohmyzsh/ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "seen_at": "2026-11-14T15:17:42.054823+00:00"
+    },
+    "026ca8e8b41be0709af8958de3e2130d5b8dfd9034d5ba0b6ef589f7946e816f": {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "seen_at": "2026-11-14T15:17:42.054825+00:00"
+    },
+    "48179362e46afbbceb1709afdfe5e9f495cb194cf58d31e4029b21f9a1f89d7f": {
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "seen_at": "2026-11-14T15:17:42.054828+00:00"
     }
   },
-  "last_updated": "2026-11-14T07:52:14.233639+00:00"
+  "last_updated": "2026-11-14T15:17:42.054903+00:00"
 }
