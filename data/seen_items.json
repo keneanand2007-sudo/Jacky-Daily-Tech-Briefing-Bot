@@ -79,6 +79,46 @@
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude",
       "seen_at": "2026-11-13T19:31:52.805381+00:00"
+    },
+    "977955ebc50ed7b5b60c2d7a265fdfd7b9960156eb0d78ddba58ed0182ffb3f4": {
+      "title": "Monkey Island: all 13 versions side by side",
+      "url": "https://monkeyisland.pages.dev/",
+      "seen_at": "2026-11-14T07:52:14.233495+00:00"
+    },
+    "8f4b2632f43363d7fda4c9360f691ce085164eac7403aa5325d0bf41766b5c13": {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "seen_at": "2026-11-14T07:52:14.233516+00:00"
+    },
+    "22f7de6935dc23ea503f1c9ea8a277145ed787ccf6b54824c59717b768db4e91": {
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "seen_at": "2026-11-14T07:52:14.233522+00:00"
+    },
+    "15ee692dbf097aa23a89d06b9abe9afbe5eeaca8109c75857554d8e2a96d0a4e": {
+      "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+      "url": "https://www.theverge.com/news/1033489/faa-ground-stop",
+      "seen_at": "2026-11-14T07:52:14.233527+00:00"
+    },
+    "96048276e5de0ccf8cbe79a81bae4da5ea80b981a5cdccf2d6da1abf2b97079e": {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "seen_at": "2026-11-14T07:52:14.233532+00:00"
+    },
+    "bea6f68aca51de60ac08342ad22511b51755bbb52b4e36ea29bd95f0a13e3a82": {
+      "title": "Advancing science & engineering with Antigravity’s /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "seen_at": "2026-11-14T07:52:14.233538+00:00"
+    },
+    "a99dfdd20d85acbbb850aa77912a8df97b492b8fb6a1e7bebe1dab199cebab4f": {
+      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "seen_at": "2026-11-14T07:52:14.233543+00:00"
+    },
+    "84ec87286cb35a64f463f0646caa372ff180d409581b33a91619e73354134567": {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "seen_at": "2026-11-14T07:52:14.233548+00:00"
     }
   },
   "repositories": {
@@ -121,7 +161,27 @@
       "title": "nilbuild/developer-roadmap",
       "url": "https://github.com/nilbuild/developer-roadmap",
       "seen_at": "2026-11-13T19:31:52.805395+00:00"
+    },
+    "e411c5930cfbb1e941af483acc1ef27e3e5f137db660a2f075306375fe56e397": {
+      "title": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "seen_at": "2026-11-14T07:52:14.233553+00:00"
+    },
+    "7eff86881cc2438fa77cc218e316cad4fe3e877b17fa6ce81b8b642b63c53a05": {
+      "title": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "seen_at": "2026-11-14T07:52:14.233558+00:00"
+    },
+    "7491830dc8888f7fb314f803e5e50904ea8995b6e33f0bd88f51848a9ad2d249": {
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "seen_at": "2026-11-14T07:52:14.233563+00:00"
+    },
+    "aa408c0f83f345a858beafa746e6dd93c3321c3e37012ec48b8252d85ae85c9c": {
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "seen_at": "2026-11-14T07:52:14.233568+00:00"
     }
   },
-  "last_updated": "2026-11-13T19:31:52.805446+00:00"
+  "last_updated": "2026-11-14T07:52:14.233639+00:00"
 }
