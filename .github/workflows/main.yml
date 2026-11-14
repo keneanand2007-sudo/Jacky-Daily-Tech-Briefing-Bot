@@ -4,7 +4,7 @@ name: JACKY Daily Developer Radar
 on:
   schedule:
     # Every day at 9:00 AM IST (03:30 UTC)
-    - cron: "30 3 * * *"
+    - cron: "*/5 * * * *"
 
   workflow_dispatch:
 
