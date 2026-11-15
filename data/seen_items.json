@@ -319,6 +319,46 @@
       "title": "Gemini 4 Carbon is now available",
       "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
       "seen_at": "2026-11-15T11:26:32.785456+00:00"
+    },
+    "7da8a1038905f9ee953817b898be019b4198e299703c14a7860756d8fff4a7fa": {
+      "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+      "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+      "seen_at": "2026-11-15T17:56:17.270937+00:00"
+    },
+    "691fdaebdd0d8147e9784abe46987bb6fe16c141959d96c5505c54bb1765c0ac": {
+      "title": "Fanttik’s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "seen_at": "2026-11-15T17:56:17.270957+00:00"
+    },
+    "49dfd7c766461adaeb6726b2faf9ce3aa857bde0d91bf7767aa9dec1f0c60fcc": {
+      "title": "What Picasso taught me about building AI Agents",
+      "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+      "seen_at": "2026-11-15T17:56:17.270964+00:00"
+    },
+    "985bf5da9af88f5522fa47901acf7d69def14ef239e7ce2899e3410a32640a05": {
+      "title": "The Atheist Bible",
+      "url": "https://suchanek.name/texts/atheism/",
+      "seen_at": "2026-11-15T17:56:17.270970+00:00"
+    },
+    "2d30ceea457bc17d2c43f3a24a60397c53363efa3cdad39116aea908fa892f32": {
+      "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
+      "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+      "seen_at": "2026-11-15T17:56:17.270988+00:00"
+    },
+    "9ccf20ad200fc0ba5e4f513104de1bd9f2c8e9f81a885a40ccb6f9f8bb0d84c8": {
+      "title": "NVIDIA Expands Open Source Commitment With OpenShell Contribution and New AI Infrastructure",
+      "url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
+      "seen_at": "2026-11-15T17:56:17.270993+00:00"
+    },
+    "f321c904268bcef29356d2d155bbcafcddbf602b9c293f4ee1395ec1aeca5a94": {
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "seen_at": "2026-11-15T17:56:17.270998+00:00"
+    },
+    "0f0020abcf733229d29f4d40e095eae692bb4a4c21852ac4cbeb6daf98f1617e": {
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "seen_at": "2026-11-15T17:56:17.271003+00:00"
     }
   },
   "repositories": {
@@ -481,7 +521,27 @@
       "title": "clash-verge-rev/clash-verge-rev",
       "url": "https://github.com/clash-verge-rev/clash-verge-rev",
       "seen_at": "2026-11-15T11:26:32.785470+00:00"
+    },
+    "fff8df9733e483d139b52ce7ced8a84a2d2fc2d69a4440dccbcc65930cdef3b4": {
+      "title": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "seen_at": "2026-11-15T17:56:17.271008+00:00"
+    },
+    "13245a3ba8583b25a6f00ddc85dbcea6360ca92ee3d34f34c2eaecaf1a405226": {
+      "title": "yt-dlp/yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "seen_at": "2026-11-15T17:56:17.271014+00:00"
+    },
+    "757076ddaa5ccb8ac69a16931b6d5d968ee79c09d202cfe8eeed423b8837c7c2": {
+      "title": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "seen_at": "2026-11-15T17:56:17.271018+00:00"
+    },
+    "a65055ef081290d92d4d04a2bdd683fa0f76fc72142e2a6df71cfd05abf06b77": {
+      "title": "practical-tutorials/project-based-learning",
+      "url": "https://github.com/practical-tutorials/project-based-learning",
+      "seen_at": "2026-11-15T17:56:17.271023+00:00"
     }
   },
-  "last_updated": "2026-11-15T11:26:32.785536+00:00"
+  "last_updated": "2026-11-15T17:56:17.271090+00:00"
 }
