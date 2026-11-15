@@ -279,6 +279,46 @@
       "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "seen_at": "2026-11-15T03:29:41.825997+00:00"
+    },
+    "6921618a4fcf3aa8e35773fc406967094930ca680a22d9ee3838149302a2d563": {
+      "title": "Why did some Apollo missions carry a grenade launcher?",
+      "url": "https://space.stackexchange.com/questions/37775",
+      "seen_at": "2026-11-15T11:26:32.785404+00:00"
+    },
+    "a11994a80f2fdec7a177dd4c088242e2ca8eb4a184b0b34d30b0963d940756d8": {
+      "title": "Book list for streetfighting computer scientists",
+      "url": "https://nick-black.com/dankwiki/index.php?title=Book_list_for_streetfighting_computer_scientists",
+      "seen_at": "2026-11-15T11:26:32.785428+00:00"
+    },
+    "1093309b494ccc9a99d9dffebe8af1bf9bc595d88b4c14d0473bc2ef65dbcaff": {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "url": "https://netbsd.org/~nia/disk-encrypt/",
+      "seen_at": "2026-11-15T11:26:32.785434+00:00"
+    },
+    "fcddece06a43c8c9909dff42086b677ccd2765c7b26407e9082927f86508ab21": {
+      "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+      "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+      "seen_at": "2026-11-15T11:26:32.785439+00:00"
+    },
+    "6ace89370b208df45bac5d1c14e74fd65b2275813a78e0c099508c5e3397421c": {
+      "title": "Work to replace old copper wire led to the FAA’s ground stop",
+      "url": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+      "seen_at": "2026-11-15T11:26:32.785444+00:00"
+    },
+    "55ff14dc4213127df72a8039620109cd467ed21c91f1958dfd8ce815a783074c": {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "seen_at": "2026-11-15T11:26:32.785448+00:00"
+    },
+    "11568aa8dfcf9a3c07504fe25196e1495017d378dc1ddce0dd1b3a34d4b9b5b8": {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "seen_at": "2026-11-15T11:26:32.785452+00:00"
+    },
+    "6d8eb3bcd497222db1584f1aa2993835a109f04276471f75e3d9dbc836822f75": {
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "seen_at": "2026-11-15T11:26:32.785456+00:00"
     }
   },
   "repositories": {
@@ -421,7 +461,27 @@
       "title": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
       "seen_at": "2026-11-15T03:29:41.826044+00:00"
+    },
+    "5dcd5a46c4da9d0210220a78235796f096027755a2d0a46513679d6b18f3fe4a": {
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "seen_at": "2026-11-15T11:26:32.785461+00:00"
+    },
+    "658041d9da6acb1a573f6a1f47de6e5fa30fbe236d2650ea38bcbd4a1ad876f0": {
+      "title": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "seen_at": "2026-11-15T11:26:32.785464+00:00"
+    },
+    "b9a0988e7e70427ecdf9add6e3fe2db1d7412c29a831efbe1148101130dbabe3": {
+      "title": "react/react",
+      "url": "https://github.com/react/react",
+      "seen_at": "2026-11-15T11:26:32.785467+00:00"
+    },
+    "041970df21f04b5225fef2679183b84e5015417aaf12f158034990de34af676c": {
+      "title": "clash-verge-rev/clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "seen_at": "2026-11-15T11:26:32.785470+00:00"
     }
   },
-  "last_updated": "2026-11-15T03:29:41.826126+00:00"
+  "last_updated": "2026-11-15T11:26:32.785536+00:00"
 }
