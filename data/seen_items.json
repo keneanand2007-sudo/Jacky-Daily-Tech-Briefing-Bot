@@ -239,6 +239,46 @@
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
       "seen_at": "2026-11-14T23:50:00.256369+00:00"
+    },
+    "0303ada4a529724d5db5684a1871b62296da20bb460b622161148543b46e57e1": {
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "url": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "seen_at": "2026-11-15T03:29:41.825945+00:00"
+    },
+    "888e2f103cc4b0001e800667792e7b734a810a8cf7346611bc2c124cc69f7de1": {
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "seen_at": "2026-11-15T03:29:41.825965+00:00"
+    },
+    "2aad7466fcfc733cb064c823564fabc94d775650a7bf0ffa6b11027bbd71baef": {
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "url": "https://bobbiec.github.io/jamaican-font.html",
+      "seen_at": "2026-11-15T03:29:41.825972+00:00"
+    },
+    "a8381ccf0f4a6c2675938f915fa2290eeb53bc18d150ac04b33b2724071b93c7": {
+      "title": "Where was Nvidia’s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "seen_at": "2026-11-15T03:29:41.825978+00:00"
+    },
+    "9e314a8f744ef711f0fd5889e683572cbac9e7671c25a602173c40418b4a2574": {
+      "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+      "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "seen_at": "2026-11-15T03:29:41.825983+00:00"
+    },
+    "ac94b61a25ade5edbf713f0897cc9ad6ba8f24621b9aed0d512136947920d1f0": {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "seen_at": "2026-11-15T03:29:41.825988+00:00"
+    },
+    "19b4fcb1faac9c9bdbccd358c8d8e12a9188d32981764b2e3beec26a5de09e66": {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "seen_at": "2026-11-15T03:29:41.825992+00:00"
+    },
+    "0a9ebdb63db3687d34639c74f820071b0b2cf24b19890ef2c99358b8005ff2a0": {
+      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
+      "seen_at": "2026-11-15T03:29:41.825997+00:00"
     }
   },
   "repositories": {
@@ -361,7 +401,27 @@
       "title": "tensorflow/tensorflow",
       "url": "https://github.com/tensorflow/tensorflow",
       "seen_at": "2026-11-14T23:50:00.256396+00:00"
+    },
+    "686aecfdbb619ddfb6c506e230dcb1eb55961ea5332474122b36824ad5b916d0": {
+      "title": "Snailclimb/JavaGuide",
+      "url": "https://github.com/Snailclimb/JavaGuide",
+      "seen_at": "2026-11-15T03:29:41.826014+00:00"
+    },
+    "2208c416db91e3903d514ed4086daf510242a4a681efcb1a4fff7d4ff854cb2c": {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "seen_at": "2026-11-15T03:29:41.826025+00:00"
+    },
+    "fa7dc4680dc18bbd3a691939b43514d7ab83a9c46e0a6206f36553e75edf038a": {
+      "title": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "seen_at": "2026-11-15T03:29:41.826034+00:00"
+    },
+    "064fc4e4cb74eb4b552b8ab22b43827929f174aca4116a6b9af071d1da255d63": {
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "seen_at": "2026-11-15T03:29:41.826044+00:00"
     }
   },
-  "last_updated": "2026-11-14T23:50:00.256468+00:00"
+  "last_updated": "2026-11-15T03:29:41.826126+00:00"
 }
