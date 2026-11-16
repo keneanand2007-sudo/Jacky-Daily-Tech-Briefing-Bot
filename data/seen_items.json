@@ -439,6 +439,46 @@
       "title": "Closing the AI guidance gap in education",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
       "seen_at": "2026-11-16T02:24:46.520502+00:00"
+    },
+    "ff7833693fa2a06713dc923ab6354b82d0a99faf362cef1531beb712e1bb1855": {
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "seen_at": "2026-11-16T10:03:03.324051+00:00"
+    },
+    "53e9148cfe06b9cbd819a027c5a75d732241a70063e09c0ec98a50cbc6b64e7e": {
+      "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
+      "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
+      "seen_at": "2026-11-16T10:03:03.324069+00:00"
+    },
+    "626dccd60cd8f73a73fe7047f5f66a5ee097f48626d0b23f0aae1a411f2177c5": {
+      "title": "How to make almost anything",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "seen_at": "2026-11-16T10:03:03.324074+00:00"
+    },
+    "c2b57ada94490caf19b4ab4fe1bafb6e43d063fa570f349bb997afc532080b6d": {
+      "title": "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
+      "url": "https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963",
+      "seen_at": "2026-11-16T10:03:03.324077+00:00"
+    },
+    "b01036d9886fd2f939c554ad0aa3e9dee3b78abb936621eec7053d26ff482a23": {
+      "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+      "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+      "seen_at": "2026-11-16T10:03:03.324082+00:00"
+    },
+    "04196bef9b67627d8cc938f736d4f9f28cdff171dc8fae28c4623630a14e4d1a": {
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "seen_at": "2026-11-16T10:03:03.324085+00:00"
+    },
+    "9092d5eb66f29547408d30e047abeac0f87e4c54c42653bfc957c7ad549984e3": {
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "seen_at": "2026-11-16T10:03:03.324088+00:00"
+    },
+    "f3fc54cd1d78c100d666a9c2ab2fb50b602d94d149788dbd0586059b0a0e8b98": {
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "seen_at": "2026-11-16T10:03:03.324091+00:00"
     }
   },
   "repositories": {
@@ -661,7 +701,27 @@
       "title": "microsoft/vscode",
       "url": "https://github.com/microsoft/vscode",
       "seen_at": "2026-11-16T02:24:46.520518+00:00"
+    },
+    "b2ff2c1289cab67059674d7a6585c2c9eaaae951cc7ba8b093a760c66dcaa8ee": {
+      "title": "avelino/awesome-go",
+      "url": "https://github.com/avelino/awesome-go",
+      "seen_at": "2026-11-16T10:03:03.324095+00:00"
+    },
+    "9ef50c8fb0e62ab5cf2b921603d5d858c31f57132d651a9c2ab55e256d446737": {
+      "title": "awesome-selfhosted/awesome-selfhosted",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+      "seen_at": "2026-11-16T10:03:03.324098+00:00"
+    },
+    "2da286d4e0230ac2893ba69d1059f639663322761e6de862e41c56a646e6da25": {
+      "title": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "seen_at": "2026-11-16T10:03:03.324101+00:00"
+    },
+    "50574581f1b27cd8e5753f37ff4efd8f8bccd304e6b49246eaa2c3f8e8803857": {
+      "title": "twbs/bootstrap",
+      "url": "https://github.com/twbs/bootstrap",
+      "seen_at": "2026-11-16T10:03:03.324104+00:00"
     }
   },
-  "last_updated": "2026-11-16T02:24:46.520590+00:00"
+  "last_updated": "2026-11-16T10:03:03.324179+00:00"
 }
