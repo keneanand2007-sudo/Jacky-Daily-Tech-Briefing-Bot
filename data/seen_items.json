@@ -399,6 +399,46 @@
       "title": "Opening the datasets behind our AI weather models",
       "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
       "seen_at": "2026-11-15T22:40:37.855947+00:00"
+    },
+    "b0ba5c598ad8aa5cb584cfc10481c17032357537174e07501e85e4493d8c18ef": {
+      "title": "Dffy: A fast terminal-native Git diff viewer, written in Rust",
+      "url": "https://github.com/amalucelli/dffy",
+      "seen_at": "2026-11-16T02:24:46.520452+00:00"
+    },
+    "ab4fc5bd1909d3d7162735f0302f89edd8509d293b7f1d37a8fea1987cca36e2": {
+      "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+      "url": "https://www.hntrends.com/2026/november.html",
+      "seen_at": "2026-11-16T02:24:46.520474+00:00"
+    },
+    "a22318abd9f9f9471832e6b6ca298680f7dc25737fba73537f4a565c4b4861a0": {
+      "title": "Apple launches new app to study how people use AI for health",
+      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "seen_at": "2026-11-16T02:24:46.520480+00:00"
+    },
+    "c57d5fdb338c13ebb4994b0544e09f231243acaa8f63f68029db09f1610c9f18": {
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "seen_at": "2026-11-16T02:24:46.520484+00:00"
+    },
+    "644feba0f3c1b2667e8290da766fe6a20dd998d8d01e95f8d1877f6a4e3e850f": {
+      "title": "Coles hit by a cybersecurity incident",
+      "url": "https://www.colesgroup.com.au/updates/",
+      "seen_at": "2026-11-16T02:24:46.520489+00:00"
+    },
+    "7890886c01383a50e6388e69c6de172e10502425509334b9f410eebaa684833c": {
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "seen_at": "2026-11-16T02:24:46.520492+00:00"
+    },
+    "991ad48e8559b2fefa9ff7bc2bbc96fe5e673f91d6bb1c78428d1dddc9dc303e": {
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "seen_at": "2026-11-16T02:24:46.520499+00:00"
+    },
+    "69d4d9d74efa01629a6c751d8fa58a99d17f0aecb815f679bbfeeb3edf259e44": {
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "seen_at": "2026-11-16T02:24:46.520502+00:00"
     }
   },
   "repositories": {
@@ -601,7 +641,27 @@
       "title": "521xueweihan/HelloGitHub",
       "url": "https://github.com/521xueweihan/HelloGitHub",
       "seen_at": "2026-11-15T22:40:37.855966+00:00"
+    },
+    "d5549494bcee1ca04524fe682cc1923cc841a4d77effbd56a7872cd6f63c4620": {
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "seen_at": "2026-11-16T02:24:46.520506+00:00"
+    },
+    "6d2d5b87602bc0c67fb7209ff10f135d07dbd834bf8cd031db966014bcd21136": {
+      "title": "torvalds/linux",
+      "url": "https://github.com/torvalds/linux",
+      "seen_at": "2026-11-16T02:24:46.520510+00:00"
+    },
+    "89c0016ca096000258cdfcd18414387e444db75914a64b1090392706b8374daa": {
+      "title": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "seen_at": "2026-11-16T02:24:46.520514+00:00"
+    },
+    "9d39a0593e6d728813642350dd2119e401978eb44d169ff4653eb1990f36e8fe": {
+      "title": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "seen_at": "2026-11-16T02:24:46.520518+00:00"
     }
   },
-  "last_updated": "2026-11-15T22:40:37.856040+00:00"
+  "last_updated": "2026-11-16T02:24:46.520590+00:00"
 }
