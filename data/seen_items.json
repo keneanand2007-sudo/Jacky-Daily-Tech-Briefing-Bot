@@ -559,6 +559,46 @@
       "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
       "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
       "seen_at": "2026-11-17T03:02:19.223995+00:00"
+    },
+    "fdb3c1f197ba522b4f237e34a31e6a6bff5af83dfae3b6d2a8b9657094c0e36f": {
+      "title": "How the Claude Code team thinks about verification",
+      "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+      "seen_at": "2026-11-17T11:43:35.780246+00:00"
+    },
+    "f2170c97b1876c5d047d11a2d8cedf6fbd51f5fd3986ab23155f01869fcc8976": {
+      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+      "url": "https://support.apple.com/en-us/149699",
+      "seen_at": "2026-11-17T11:43:35.780262+00:00"
+    },
+    "25b5dfac7e31c25d67e96ff5b3801d19b8697f98a9b5ef1a4b06895daed6a528": {
+      "title": "Why 3dfx 1 cards had such a washed out color output?",
+      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
+      "seen_at": "2026-11-17T11:43:35.780268+00:00"
+    },
+    "0e7f690aa4ff229bd2e8f2756081d691fec5b134a3dc763b1e89b65c9c3becc6": {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "seen_at": "2026-11-17T11:43:35.780272+00:00"
+    },
+    "ae3d9685f670ac125fb390042f3eda2a75660583c3361197389eb0b8cfc31611": {
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "seen_at": "2026-11-17T11:43:35.780276+00:00"
+    },
+    "4af98b7e3bf90778bf630983445a606c2fc5bb50099ec300cd5482f08f6ec353": {
+      "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+      "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+      "seen_at": "2026-11-17T11:43:35.780280+00:00"
+    },
+    "b696bf684c37a1c04a6f8dc05e27ff13df04493bdd424050e2e3d660c773d23d": {
+      "title": "NVIDIA Sweeps MLPerf Training and Endpoints as Vera Rubin Debuts With Leading Performance",
+      "url": "https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/",
+      "seen_at": "2026-11-17T11:43:35.780291+00:00"
+    },
+    "970d377277e32883700dc2214d345528605d5a3dd73a73751949cd26e4a0103a": {
+      "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
+      "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
+      "seen_at": "2026-11-17T11:43:35.780301+00:00"
     }
   },
   "repositories": {
@@ -813,5 +853,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-17T03:02:19.224042+00:00"
+  "last_updated": "2026-11-17T11:43:35.780368+00:00"
 }
