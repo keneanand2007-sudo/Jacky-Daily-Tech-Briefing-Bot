@@ -519,6 +519,46 @@
       "title": "Strengthening the fight against online child sexual abuse with new tools and support",
       "url": "https://openai.com/index/strengthening-online-child-safety",
       "seen_at": "2026-11-16T20:22:36.880760+00:00"
+    },
+    "cd3f9f2cc97c05f9f5b96d3595e40296f0428d0281788edc0ac2ff149d2ae91c": {
+      "title": "Mem Is Shutting Down",
+      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
+      "seen_at": "2026-11-17T03:02:19.223958+00:00"
+    },
+    "36e38c5e31f8a29ce491467c543281a0e64e292dddfbdb69dd7e824a0de462ca": {
+      "title": "Show HN: A free interactive course on AI agent governance",
+      "url": "https://studio.sinapsdata.com.br",
+      "seen_at": "2026-11-17T03:02:19.223974+00:00"
+    },
+    "5403ed52bc07321170f1242bb1ffdd54ad44b5b6a0e32b6507bf3c763eb62d92": {
+      "title": "Show HN: 1.499x speedup and 28.5% dynamic energy drop on A40 via BF16 tiling",
+      "url": "https://cwtractors.com",
+      "seen_at": "2026-11-17T03:02:19.223978+00:00"
+    },
+    "e242ad74e03e30b6f7a0e7f1a79ef9a230016787d69f245d2485fa687f2d2bc2": {
+      "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+      "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+      "seen_at": "2026-11-17T03:02:19.223983+00:00"
+    },
+    "24baf68da2c147d6568a9bc4a616fe00cfa24b01c3511495de807992173a863e": {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "seen_at": "2026-11-17T03:02:19.223986+00:00"
+    },
+    "0f13e34240505e908ad0305d87f46c992d0056f33cc83de1763ba7112a8916ec": {
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "seen_at": "2026-11-17T03:02:19.223989+00:00"
+    },
+    "fc3a56c14a550ef5b6bcf5f1060dcdd135483ef6677857836c31c0f6b128cef3": {
+      "title": "Lambda Boosts AI Factory Resiliency and Efficiency With NVIDIA Photonics",
+      "url": "https://blogs.nvidia.com/blog/lambda-photonics/",
+      "seen_at": "2026-11-17T03:02:19.223992+00:00"
+    },
+    "c046784cf46697f9446f6d5a1c8a43febba4ebd1f38213a9ad93a09d384100be": {
+      "title": "NVIDIA Expands Slurm to Bring Quantum Computing Into Supercomputing",
+      "url": "https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/",
+      "seen_at": "2026-11-17T03:02:19.223995+00:00"
     }
   },
   "repositories": {
@@ -773,5 +813,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-16T20:22:36.880834+00:00"
+  "last_updated": "2026-11-17T03:02:19.224042+00:00"
 }
