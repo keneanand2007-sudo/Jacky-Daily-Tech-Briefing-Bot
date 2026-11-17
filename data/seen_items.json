@@ -599,6 +599,46 @@
       "title": "NVIDIA CUDA-X Libraries Give Agents the Tools to Accelerate Scientific Discovery",
       "url": "https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/",
       "seen_at": "2026-11-17T11:43:35.780301+00:00"
+    },
+    "3a4d3301c790ce8ec05c7649a187927a9a71a0f57d5a2961dd425736edb8bed6": {
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "seen_at": "2026-11-17T20:04:13.291571+00:00"
+    },
+    "21204aa3ca915fe63c440b8a256f1114ab59e5f779c4be5a8046d4594f70bae9": {
+      "title": "Waymo suspends freeway rides nationwide after California DMV order",
+      "url": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "seen_at": "2026-11-17T20:04:13.291598+00:00"
+    },
+    "87bf4382e457739f59caf7f18058445c733762d9c44369e28499b695146060c2": {
+      "title": "Announcing AI data preparation capabilities in Amazon SageMaker: Build high-quality datasets for model development workflows",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-ai-data-preparation-capabilities-in-amazon-sagemaker-build-high-quality-datasets-for-model-development-workflows/",
+      "seen_at": "2026-11-17T20:04:13.291608+00:00"
+    },
+    "84fed3ccbd810835ea9f63555e09f5d708c7580007dabd3a2d43225be221ace1": {
+      "title": "Framework’s better couch keyboard is now available for preorder",
+      "url": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
+      "seen_at": "2026-11-17T20:04:13.291615+00:00"
+    },
+    "8e5c0d9d0faa3272be2b130bc49b6663799b7120edd996019544c1ec3df3d8c7": {
+      "title": "350 years ago, this man discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "seen_at": "2026-11-17T20:04:13.291623+00:00"
+    },
+    "8f6af8c44a4a1bfb5de31585ff7d049da9f0b0c7303ae5eb79fd652e216c50e9": {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "seen_at": "2026-11-17T20:04:13.291630+00:00"
+    },
+    "49e988fe944963bc5d3565b3616c13002c9532d7965800a4b85497cc35326940": {
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents",
+      "url": "https://blogs.nvidia.com/blog/ian-buck-sc26/",
+      "seen_at": "2026-11-17T20:04:13.291637+00:00"
+    },
+    "3b3be741a87f5e2153e626602817efd9dcc9c3fb90f3d3d29d39838acce03d65": {
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "seen_at": "2026-11-17T20:04:13.291644+00:00"
     }
   },
   "repositories": {
@@ -853,5 +893,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-17T11:43:35.780368+00:00"
+  "last_updated": "2026-11-17T20:04:13.291713+00:00"
 }
