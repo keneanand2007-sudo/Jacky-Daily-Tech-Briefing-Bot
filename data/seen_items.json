@@ -719,6 +719,46 @@
       "title": "Science at the Frontier: How scientists use ChatGPT",
       "url": "https://openai.com/index/science-at-the-frontier",
       "seen_at": "2026-11-18T10:30:36.520733+00:00"
+    },
+    "02983c5deae4c2b2dcc5305c427083a8a830403f33e561369c6f439b17e8712b": {
+      "title": "How Stretto built an AI voice agent with Amazon Nova 2 Sonic",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-stretto-built-an-ai-voice-agent-with-amazon-nova-2-sonic/",
+      "seen_at": "2026-11-18T19:00:52.449973+00:00"
+    },
+    "e50adc219ed8b3a17d5aa725b700ef64bf75d3bd3867ac7b9240301e0f135909": {
+      "title": "From reporting to reasoning: Getting enterprise data ready for AI agents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/from-reporting-to-reasoning-getting-enterprise-data-ready-for-ai-agents/",
+      "seen_at": "2026-11-18T19:00:52.450005+00:00"
+    },
+    "e55c8f2df06c07ffc92b5ea28b360b047797a023e968816743ef7e472d87d336": {
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "seen_at": "2026-11-18T19:00:52.450015+00:00"
+    },
+    "41ae633c6584dee9d5b17bb95344d72396bc2b1c4a82242507937d389ea50215": {
+      "title": "The best early Black Friday deals you can already shop",
+      "url": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+      "seen_at": "2026-11-18T19:00:52.450023+00:00"
+    },
+    "48dc89a786ffcf3b9ad9b9a2a6b8bec4db8378234ed1d9f2ece6a5a8938c8981": {
+      "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
+      "url": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
+      "seen_at": "2026-11-18T19:00:52.450030+00:00"
+    },
+    "8990b5a87eb62a061311428f042d15367dba5a55634065de38197566ba57cb47": {
+      "title": "The Magic of Partial Evaluation",
+      "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+      "seen_at": "2026-11-18T19:00:52.450037+00:00"
+    },
+    "cac57b5217ba2caa29c847df5f685476e5b042501a45158c9c1b997004f38006": {
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "seen_at": "2026-11-18T19:00:52.450045+00:00"
+    },
+    "aef632472a5e3af7f91b4cd9c5d8e0ecee47135327c9822e26d24027e878b6a3": {
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "seen_at": "2026-11-18T19:00:52.450052+00:00"
     }
   },
   "repositories": {
@@ -973,5 +1013,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-18T10:30:36.520790+00:00"
+  "last_updated": "2026-11-18T19:00:52.450130+00:00"
 }
