@@ -639,6 +639,46 @@
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
       "seen_at": "2026-11-17T20:04:13.291644+00:00"
+    },
+    "b330164a6f0ccccf334136f67174b40831e080d51e54e47249c7b1f17a1488a0": {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "seen_at": "2026-11-18T02:24:25.448158+00:00"
+    },
+    "3c25963477ac1c88f238d8bdcf4ecd1e1678d4137b15bd01a43f9ad606d089bb": {
+      "title": "Cerebras Disaggregated Inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+      "seen_at": "2026-11-18T02:24:25.448178+00:00"
+    },
+    "4549f158f0527f6139b65e5e033be8bae7d126e1033a3155be733cf1dee1caf3": {
+      "title": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "seen_at": "2026-11-18T02:24:25.448196+00:00"
+    },
+    "89626dbace3abab073805ba8045870a859ae8ea08217116b3f5114d779836c03": {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "seen_at": "2026-11-18T02:24:25.448206+00:00"
+    },
+    "ceeb5bf897d71eb6e293937758b80a6a2d4edac99d0cc453fbe2a03b0ba364d4": {
+      "title": "Nvidia promises that revenue will keep soaring — for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "seen_at": "2026-11-18T02:24:25.448216+00:00"
+    },
+    "3047d7657748ea760feb4367a861eff886526fc9a8d7d29ee939532b2c42b6aa": {
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "seen_at": "2026-11-18T02:24:25.448225+00:00"
+    },
+    "b43ef08ac3ed4f7af6f4fa4f8f60d0d2c49772fc6e540a21a0c9e441265578ef": {
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "seen_at": "2026-11-18T02:24:25.448232+00:00"
+    },
+    "1d9f84a1774659ade8b8e71de14442481af9a25d3e5add6725a94dc85852c372": {
+      "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
+      "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
+      "seen_at": "2026-11-18T02:24:25.448240+00:00"
     }
   },
   "repositories": {
@@ -893,5 +933,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-17T20:04:13.291713+00:00"
+  "last_updated": "2026-11-18T02:24:25.448318+00:00"
 }
