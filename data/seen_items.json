@@ -679,6 +679,46 @@
       "title": "CUDA at 20: How the Platform Transformed Scientific Computing",
       "url": "https://blogs.nvidia.com/blog/20-years-cuda/",
       "seen_at": "2026-11-18T02:24:25.448240+00:00"
+    },
+    "75c03d6c92f652b239ffc45c5e4844ebefad0611789842e50479612390cc5062": {
+      "title": "Codeberg.org Not Reachable",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "seen_at": "2026-11-18T10:30:36.520673+00:00"
+    },
+    "f054d70d5a7a452e3a2288f657f516caf8658153959b270744ec168970067d8e": {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "seen_at": "2026-11-18T10:30:36.520694+00:00"
+    },
+    "7fc914ca3dc5a16bdd62326efa837895e71e499e94c9f6eccfc849714df1a970": {
+      "title": "Talos Linux",
+      "url": "https://www.siderolabs.com/talos-linux",
+      "seen_at": "2026-11-18T10:30:36.520704+00:00"
+    },
+    "284390abf0d2b0e5a8dcb85da7bc2887f6b8f833445cf021b0dee99367636f57": {
+      "title": "Stripe backer Atomico calls for Europe to own its success stories",
+      "url": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+      "seen_at": "2026-11-18T10:30:36.520712+00:00"
+    },
+    "a1de396d3910fa2e0f79d5fc1596f0a162b45e4ee5be0f06557fa126a8cc5915": {
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "seen_at": "2026-11-18T10:30:36.520721+00:00"
+    },
+    "d34ce25785fdf87b116dcefd019341a1a4e0ccba0e63a1ae216b7a7edad09586": {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "seen_at": "2026-11-18T10:30:36.520726+00:00"
+    },
+    "9332b18c5744f2a0ae4c6613a20c45dca22d1b5bb99aa596b01a7aa9491e3566": {
+      "title": "NVIDIA Announces Rubin HPC — A New GPU to Accelerate Agents for Science, Engineering and Analytics",
+      "url": "https://blogs.nvidia.com/blog/rubin-hpc/",
+      "seen_at": "2026-11-18T10:30:36.520730+00:00"
+    },
+    "d91fd06de7b8771ee8ad78bbe6c6a0f8795962915436321f9652c6b42b553b9c": {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "seen_at": "2026-11-18T10:30:36.520733+00:00"
     }
   },
   "repositories": {
@@ -933,5 +973,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-18T02:24:25.448318+00:00"
+  "last_updated": "2026-11-18T10:30:36.520790+00:00"
 }
