@@ -759,6 +759,46 @@
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
       "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
       "seen_at": "2026-11-18T19:00:52.450052+00:00"
+    },
+    "108d95f376814446edb6b6745095e16c95ecfdbc6068fccd8f6a66fb24dc5190": {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "seen_at": "2026-11-19T01:06:03.417440+00:00"
+    },
+    "6a21dab5c79c6557bd661b97e97945bee9c378304b5624eef517b9d64d449493": {
+      "title": "Elon Musk says: ‘I’m not MAGA’",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+      "seen_at": "2026-11-19T01:06:03.417459+00:00"
+    },
+    "e8a84f6111970e8a26ca2d6a04c0b2ef2bfe0fe5b11632c82d4164d69c3b1945": {
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "seen_at": "2026-11-19T01:06:03.417465+00:00"
+    },
+    "69d2a53c7d513a69a91ca1413052323b51232e5480395aee68f7729332510e52": {
+      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
+      "url": "https://claudia.gallery/fable/",
+      "seen_at": "2026-11-19T01:06:03.417476+00:00"
+    },
+    "543c99d1a39c17b8c7c73a3015b06e181c878fec9c6647d8321c09398b0000ce": {
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "seen_at": "2026-11-19T01:06:03.417484+00:00"
+    },
+    "95da0fde7d56c751139e0cc7dfc6322f755c734e8b60661e4e9abc5c82ecbba0": {
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "seen_at": "2026-11-19T01:06:03.417491+00:00"
+    },
+    "f0b81ce3c14612880642c854f15f292b941326a9491f444584b41bfe82ab7a56": {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "seen_at": "2026-11-19T01:06:03.417498+00:00"
+    },
+    "a9ef6dbadc6b0013c70d2fb087034f16b4ba50286d8548f32b959c332c58a242": {
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "seen_at": "2026-11-19T01:06:03.417504+00:00"
     }
   },
   "repositories": {
@@ -1013,5 +1053,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-18T19:00:52.450130+00:00"
+  "last_updated": "2026-11-19T01:06:03.417588+00:00"
 }
