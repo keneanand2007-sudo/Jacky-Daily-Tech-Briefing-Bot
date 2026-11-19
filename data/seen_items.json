@@ -839,6 +839,46 @@
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
       "seen_at": "2026-11-19T08:44:44.983238+00:00"
+    },
+    "ee20d352f0da08b76e7e3c023f828c83cee1f174045bfe387cdc98bdc8d0bcd2": {
+      "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "seen_at": "2026-11-19T17:43:46.852644+00:00"
+    },
+    "68c6c01e22389d5aa6f40b4f7b2efcb71481cee3f5392e6732c2040d1fa48780": {
+      "title": "PolyAI Dialog-RSN-1 is now on Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/polyai-dialog-rsn-1-is-now-on-amazon-sagemaker-jumpstart/",
+      "seen_at": "2026-11-19T17:43:46.852664+00:00"
+    },
+    "09a05505e52a6c040cf8c98a76a7c8615beb5742f59469f0bb9aaa6bdc3dc6e3": {
+      "title": "Amazon’s last-gen Kindle Paperwhite hasn’t been this cheap since June",
+      "url": "https://www.theverge.com/gadgets/1037635/amazon-kindle-paperwhite-black-friday-2026-deal-sale",
+      "seen_at": "2026-11-19T17:43:46.852671+00:00"
+    },
+    "6c88d6c2bfe1008ca26e387faa482465d10a0539f40db1422cd7d8a07c596f9c": {
+      "title": "Chrome AI Features Wasting Much Bandwidth",
+      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth/",
+      "seen_at": "2026-11-19T17:43:46.852682+00:00"
+    },
+    "eeab092161f803619ed4ae34b497ab2a9ca24340671d1321c81dc8ca9c150900": {
+      "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
+      "url": "https://news.ycombinator.com/item?id=50562528",
+      "seen_at": "2026-11-19T17:43:46.852687+00:00"
+    },
+    "81bcb470e238c85caf4cf0fd944bf121dda18ad9b1b1955ff931d76e4db2a2d5": {
+      "title": "Season’s Streamings and Savings: Black Friday Deals Come to GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/",
+      "seen_at": "2026-11-19T17:43:46.852690+00:00"
+    },
+    "9342dbf934e428aa00c16520441f258a949ccd62bcb28471deb475c04ce3c227": {
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "seen_at": "2026-11-19T17:43:46.852693+00:00"
+    },
+    "67952d9a918d2536a7bf3b37b6c05ec5dc7c7c22fdf68db178458bb74b4d4f2d": {
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "seen_at": "2026-11-19T17:43:46.852696+00:00"
     }
   },
   "repositories": {
@@ -1093,5 +1133,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-19T08:44:44.983314+00:00"
+  "last_updated": "2026-11-19T17:43:46.852759+00:00"
 }
