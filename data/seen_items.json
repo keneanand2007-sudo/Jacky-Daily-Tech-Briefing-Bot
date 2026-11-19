@@ -799,6 +799,46 @@
       "title": "NVIDIA RTX Spark Compact Desktops Out Now",
       "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
       "seen_at": "2026-11-19T01:06:03.417504+00:00"
+    },
+    "b05d79395ecd3451b08bb65d1c0d1a6bbc6b3ef22e366dcc7e6e197a6adf42c5": {
+      "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+      "url": "https://kapteko.com/15-million-webservers/",
+      "seen_at": "2026-11-19T08:44:44.983194+00:00"
+    },
+    "d61f7e881d9ad24f020d742fe652521161c2a046ad4198f395c28685952f27e3": {
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "seen_at": "2026-11-19T08:44:44.983211+00:00"
+    },
+    "b863bb1d729a35212c0b34317061e9270c83b3fb39146afbda3448fac1cd91f6": {
+      "title": "Elon Musk tries to explain what’s going on with Ukraine and Starlink",
+      "url": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+      "seen_at": "2026-11-19T08:44:44.983218+00:00"
+    },
+    "c31bffd39441760a2902889fa65d0564a72b051735b54be3acf261f1653971b1": {
+      "title": "Unreal Tournament 2004 in the Browser",
+      "url": "https://ut2004.dev/",
+      "seen_at": "2026-11-19T08:44:44.983222+00:00"
+    },
+    "afb1f8fc849417dafc40566fabd0e231ea554d6fee6fc1399a052b6531318eb4": {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "seen_at": "2026-11-19T08:44:44.983227+00:00"
+    },
+    "184d931227f2504de1a33bebb5615518a5072d45e1bfb93a37850e8332740e3a": {
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "seen_at": "2026-11-19T08:44:44.983231+00:00"
+    },
+    "58da586369f33999eb920dc2411502d48d9dc9ca37a4ab1a788d83ffd176938a": {
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "seen_at": "2026-11-19T08:44:44.983234+00:00"
+    },
+    "53d809d7420a3923e8bad7c3bd224d7d2c9da9cb37fe0d761411713f6da0b90e": {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "seen_at": "2026-11-19T08:44:44.983238+00:00"
     }
   },
   "repositories": {
@@ -1053,5 +1093,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-19T01:06:03.417588+00:00"
+  "last_updated": "2026-11-19T08:44:44.983314+00:00"
 }
