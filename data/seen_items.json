@@ -879,6 +879,46 @@
       "title": "Inside the Codex sandbox",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
       "seen_at": "2026-11-19T17:43:46.852696+00:00"
+    },
+    "a52aba1fad9e967401f5751ac7adf958276519d6bd8d612d0a6ff3069fa852fc": {
+      "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+      "url": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+      "seen_at": "2026-11-19T23:54:39.556467+00:00"
+    },
+    "ca54a6bbec4169dafb8f5527c82ed7678376c5b1ea5dc309e9f8b2cef7c15211": {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "seen_at": "2026-11-19T23:54:39.556486+00:00"
+    },
+    "4eab3c1f90feb8c76062190fc8a13777bcdcf511cc998da03a8fc4e4341a1262": {
+      "title": "Enable AI agents to pay for AWS Marketplace x402 products with Amazon Bedrock AgentCore payments",
+      "url": "https://aws.amazon.com/blogs/machine-learning/enable-ai-agents-to-pay-for-aws-marketplace-x402-products-with-amazon-bedrock-agentcore-payments/",
+      "seen_at": "2026-11-19T23:54:39.556490+00:00"
+    },
+    "7b8ef2b88b8fb9cc3ea5f8d1e36dcba4799ade91934922e59b38803c7010a77c": {
+      "title": "Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'",
+      "url": "https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/",
+      "seen_at": "2026-11-19T23:54:39.556493+00:00"
+    },
+    "255531d94837d2277537ebbd6df9b972a446edbf7c1e47badcc66fe3c0e9a450": {
+      "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+      "url": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+      "seen_at": "2026-11-19T23:54:39.556496+00:00"
+    },
+    "888f64c038855a1ce01a2247b709aacb0247c3209dedc075052c80a49d03a279": {
+      "title": "A game you cannot win unless you have a quantum computer",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "seen_at": "2026-11-19T23:54:39.556499+00:00"
+    },
+    "36bc207225e9e41f8c82581f6e01576f6e32dbb6b45ffe2dc91236e139ab5fda": {
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "seen_at": "2026-11-19T23:54:39.556502+00:00"
+    },
+    "5beef147a7815df463331e9ff574e0580ad763415a5c3aeb5afd9fcac7b3d8d2": {
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "seen_at": "2026-11-19T23:54:39.556504+00:00"
     }
   },
   "repositories": {
@@ -1133,5 +1173,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-19T17:43:46.852759+00:00"
+  "last_updated": "2026-11-19T23:54:39.556604+00:00"
 }
