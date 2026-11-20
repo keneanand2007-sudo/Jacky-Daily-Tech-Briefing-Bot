@@ -959,6 +959,46 @@
       "title": "Explore the Codex Security Plugin",
       "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "seen_at": "2026-11-20T06:07:34.165745+00:00"
+    },
+    "72989d3423918003b6eac1ca3d9b1d1e49e19ca1e11d4225424b7aa9657918b8": {
+      "title": "Why there are still no non-WebKit browsers on iOS",
+      "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+      "seen_at": "2026-11-20T15:25:29.203271+00:00"
+    },
+    "1942a91a9f55b1befc5ea256443c00ad283ebc25ab59942ff1d0bac192e12cb2": {
+      "title": "UN court cites military Facebook posts while finding Myanmar guilty of genocide",
+      "url": "https://www.theverge.com/policy/1038450/facebook-myanmar-genocide-un",
+      "seen_at": "2026-11-20T15:25:29.203293+00:00"
+    },
+    "b683079839bae5071bfaeebb7d023d911a57d89e9ff68ea4aa7fe93fd9164765": {
+      "title": "Let’s talk about GTA VI",
+      "url": "https://www.theverge.com/entertainment/1037545/gta-6-discussion",
+      "seen_at": "2026-11-20T15:25:29.203300+00:00"
+    },
+    "3b3270b0917323ae879a1f5a2e2db2f4dea36313e995fa2b3fa90521189cc310": {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "seen_at": "2026-11-20T15:25:29.203305+00:00"
+    },
+    "0d485e0dfc8d69ca83636983a47bd92cb7a424b097b2fd243ee7efc1da523a02": {
+      "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "seen_at": "2026-11-20T15:25:29.203310+00:00"
+    },
+    "701a571706ec6c00de8bbc6af8a9bc31d2eec98a2272e87a59a9e6a4a97a82f1": {
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "seen_at": "2026-11-20T15:25:29.203315+00:00"
+    },
+    "da30645137037f0052cd70ab3b09df0b31abc0303db9422eaa375a651d60b969": {
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "seen_at": "2026-11-20T15:25:29.203320+00:00"
+    },
+    "99be0c0a7e074380d1a5d6cdb0953a68d68217eb3d8f50443a74e9d288a8cea0": {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "seen_at": "2026-11-20T15:25:29.203329+00:00"
     }
   },
   "repositories": {
@@ -1213,5 +1253,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-20T06:07:34.165818+00:00"
+  "last_updated": "2026-11-20T15:25:29.203396+00:00"
 }
