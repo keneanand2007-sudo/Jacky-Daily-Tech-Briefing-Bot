@@ -919,6 +919,46 @@
       "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
       "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
       "seen_at": "2026-11-19T23:54:39.556504+00:00"
+    },
+    "1dfd71750299fd06c525a2bb73a70ec175c4a0671dd123be002d3da944054ace": {
+      "title": "Google is pushing OEMs against GrapheneOS and bootloader unlocking",
+      "url": "https://grapheneos.social/@GrapheneOS/117645038299496084",
+      "seen_at": "2026-11-20T06:07:34.165706+00:00"
+    },
+    "a72b971f1e345351fff5690fab41d149e8d48f937e2bf6b0b5c1117e697800ef": {
+      "title": "FFmpeg 9.1 'Gauss'",
+      "url": "https://ffmpeg.org/download.html",
+      "seen_at": "2026-11-20T06:07:34.165723+00:00"
+    },
+    "1e57056bb8cb4d74e036fcd8d80292a30f7a232ce5bfe7749fc423bed8d77e9b": {
+      "title": "GIMP now has UI tests",
+      "url": "https://www.gimp.org/news/2026/11/16/gimp-ui-tests/",
+      "seen_at": "2026-11-20T06:07:34.165728+00:00"
+    },
+    "8288c457eabd2464774e38576c72d62d04ad1399f95d59d32b27b77c36ea8034": {
+      "title": "Apple may be developing its own AI agent that runs your Mac",
+      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "seen_at": "2026-11-20T06:07:34.165732+00:00"
+    },
+    "327354b7a28e2854b8fde8dfdf06a3f4197a65ce6b95b71eb07970674fd22fd0": {
+      "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "seen_at": "2026-11-20T06:07:34.165735+00:00"
+    },
+    "a890a236270cc5e31862345b7933987a42b139de2dead494b477fbf1189784a9": {
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "seen_at": "2026-11-20T06:07:34.165738+00:00"
+    },
+    "17b7a2b39f098895a2208f48f1507c3092e017b4481f6732b70b65df4c04b2b0": {
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "seen_at": "2026-11-20T06:07:34.165742+00:00"
+    },
+    "82fe289fe466dcc1d4f71a60b5a7fb88a90a6df5cf719a456eac5a721e5f3552": {
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "seen_at": "2026-11-20T06:07:34.165745+00:00"
     }
   },
   "repositories": {
@@ -1173,5 +1213,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-19T23:54:39.556604+00:00"
+  "last_updated": "2026-11-20T06:07:34.165818+00:00"
 }
