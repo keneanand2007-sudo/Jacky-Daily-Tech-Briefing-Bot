@@ -999,6 +999,46 @@
       "title": "Managing frontier AI risk: From training to deployment",
       "url": "https://openai.com/index/managing-frontier-ai-risk",
       "seen_at": "2026-11-20T15:25:29.203329+00:00"
+    },
+    "adc46ec10496777d0afd21114c17991bb1a4d7c357b9246745bbbbdbc9776b86": {
+      "title": "A few hours ago Google DeepMind created a math horizon repo",
+      "url": "https://github.com/google-deepmind/math-horizon",
+      "seen_at": "2026-11-20T22:19:20.571300+00:00"
+    },
+    "d9d43296365478917c08e42df52e580ebcd317fe35e8ee32811d1ad677e46681": {
+      "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+      "url": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+      "seen_at": "2026-11-20T22:19:20.571318+00:00"
+    },
+    "28a72b175fa002be3c86f69205575b51de8a6c31f13f439354c6854ad977a875": {
+      "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+      "url": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+      "seen_at": "2026-11-20T22:19:20.571323+00:00"
+    },
+    "8332904eb70bcbc59b8b5c3eafe3fc0925b4f263905e1902fb1f9eef3b936480": {
+      "title": "How Standard Bank Group automates AI risk assessment for generative AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-standard-bank-group-automates-ai-risk-assessment-for-generative-ai/",
+      "seen_at": "2026-11-20T22:19:20.571326+00:00"
+    },
+    "658afeb85fc89c828bdc17aaf2e99a9f54cc87f943de0d13c127aa97cab50c69": {
+      "title": "Nvidia accounting under SEC investigation, sources say",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "seen_at": "2026-11-20T22:19:20.571330+00:00"
+    },
+    "7ad44f990f0c53ef2e2a537716dcd0f4d19ea5c4fbcd3c1cf3877b1b8eae8965": {
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "seen_at": "2026-11-20T22:19:20.571334+00:00"
+    },
+    "8145fefb47ff1ca9fa5560e62b69bf54a222274ffe6f44de71f6b3dfaaa8f955": {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "seen_at": "2026-11-20T22:19:20.571336+00:00"
+    },
+    "c1a2af93db54bfcf7c217cb74db83cfc0f90565b5c1b91d5871ab9ee0c953910": {
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "seen_at": "2026-11-20T22:19:20.571339+00:00"
     }
   },
   "repositories": {
@@ -1253,5 +1293,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-20T15:25:29.203396+00:00"
+  "last_updated": "2026-11-20T22:19:20.571393+00:00"
 }
