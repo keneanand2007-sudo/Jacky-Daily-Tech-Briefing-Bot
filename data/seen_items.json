@@ -1079,6 +1079,46 @@
       "title": "Advancing chip design with OpenAI models",
       "url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "seen_at": "2026-11-21T03:18:24.890834+00:00"
+    },
+    "859d9bb59e13136fc3e56a8b97fa2212267ae8eb60efaa01fc56699824e03f7f": {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.com/news/articles/cvze7de86pk3o",
+      "seen_at": "2026-11-21T11:27:49.295405+00:00"
+    },
+    "b8606c68272e2ff2bb29ab501378e45d484ee9ce06b036c655e94dcf66aa3e1e": {
+      "title": "RCE in Gnupg",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "seen_at": "2026-11-21T11:27:49.295425+00:00"
+    },
+    "4e6bc391c618a5100eb0fbec9f3c84d56464e1e3cd732a3fdeecceb474735558": {
+      "title": "Exascale fusion simulation team named finalist for 2026 Gordon Bell Prize",
+      "url": "https://www.alcf.anl.gov/news/exascale-fusion-simulation-team-named-finalist-2026-gordon-bell-prize",
+      "seen_at": "2026-11-21T11:27:49.295429+00:00"
+    },
+    "728117660118c50c2b189fd6dffaa40b33e5732d6c87b72265d856ea5cee4dfb": {
+      "title": "Startup sues Apple in India over tap-to-share contacts feature",
+      "url": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
+      "seen_at": "2026-11-21T11:27:49.295434+00:00"
+    },
+    "81e856d23e6ca9408619d45198d754d1b5b2622c3be523fe660ae5f03d7161a5": {
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "seen_at": "2026-11-21T11:27:49.295437+00:00"
+    },
+    "ec56b5eff9affb1c339e466ce0f8237f0117032663d5db85034279f9f2a19228": {
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "seen_at": "2026-11-21T11:27:49.295441+00:00"
+    },
+    "5b89a2db7f60ae9099b72ca73768977f61c082125cbaf94b72c9c9bced5f17aa": {
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "seen_at": "2026-11-21T11:27:49.295444+00:00"
+    },
+    "b82b64ef90f76e66fb0003e74649f67052cf66f11ce4f6f63d50fd3308925680": {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "seen_at": "2026-11-21T11:27:49.295447+00:00"
     }
   },
   "repositories": {
@@ -1333,5 +1373,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-21T03:18:24.890908+00:00"
+  "last_updated": "2026-11-21T11:27:49.295509+00:00"
 }
