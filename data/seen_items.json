@@ -1119,6 +1119,46 @@
       "title": "How Revolut raises ambition without lowering the bar",
       "url": "https://openai.com/business/customer-stories/revolut",
       "seen_at": "2026-11-21T11:27:49.295447+00:00"
+    },
+    "f057758653af9e0825a10bb037f9258e1a42b3b90420585f0c59176ce6cee603": {
+      "title": "The FBI and USDA were reportedly hacked",
+      "url": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
+      "seen_at": "2026-11-21T18:10:10.785668+00:00"
+    },
+    "5b40733bb9059e79256ad30f83c565611b3fb10b7b0372c5ebf689c05dfe5914": {
+      "title": "PostgreSQL Extensions in Go",
+      "url": "https://jespino.github.io/gopgext/",
+      "seen_at": "2026-11-21T18:10:10.785695+00:00"
+    },
+    "d15566b2aef3b460300ba5fc8eaad18544e50a671035648b1fa1cb014bf7609f": {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "seen_at": "2026-11-21T18:10:10.785704+00:00"
+    },
+    "73c42d2b096742f441ae269947093263eb6e8a7058db21d788960f74b528db99": {
+      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
+      "url": "https://math.mit.edu/~drew/grh/",
+      "seen_at": "2026-11-21T18:10:10.785709+00:00"
+    },
+    "d8640923d243059235d8b3ddc0affc4e52748026f92e24b5f03000b32f0bffd3": {
+      "title": "Show HN: Zero C#, Power of C# without any GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "seen_at": "2026-11-21T18:10:10.785714+00:00"
+    },
+    "9fe6d2ae73e55f52b8078f1806f466588569fb6faa3605540c1891f86e100648": {
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "seen_at": "2026-11-21T18:10:10.785719+00:00"
+    },
+    "21e886491b30cfff0403f0b9b226dc169269e7194d3a973fb9f92f6fcc6f75b9": {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "seen_at": "2026-11-21T18:10:10.785724+00:00"
+    },
+    "21b4758ab52123ac78ffa3dbca8705003ed9e3a44cc34d1840f5a51cf6e091d0": {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "seen_at": "2026-11-21T18:10:10.785728+00:00"
     }
   },
   "repositories": {
@@ -1373,5 +1413,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-21T11:27:49.295509+00:00"
+  "last_updated": "2026-11-21T18:10:10.785792+00:00"
 }
