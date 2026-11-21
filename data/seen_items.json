@@ -1039,6 +1039,46 @@
       "title": "Can AI help scientists identify promising drug candidates?",
       "url": "https://openai.com/index/introducing-medchembench",
       "seen_at": "2026-11-20T22:19:20.571339+00:00"
+    },
+    "922ac67c759953ffde87717528dab69824bbfdcfc93b80d87098309fd2d245da": {
+      "title": "Integrals of Polynomials with Galois Group S_p",
+      "url": "https://m-slee.netlify.app/posts/integrals-galois-polynomials",
+      "seen_at": "2026-11-21T03:18:24.890786+00:00"
+    },
+    "6b1a37a3501d8c9aa6e029ceb19e71baa27b4c7a03d4ed9485542409c1f63589": {
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
+      "seen_at": "2026-11-21T03:18:24.890808+00:00"
+    },
+    "756bd32258a5ff4a6e998eab59191985004bbf78a0bc5855456cc5a177f6a291": {
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "seen_at": "2026-11-21T03:18:24.890814+00:00"
+    },
+    "536d4386c711aad48fdfa2276e2317bac182f2c8872777d9ae95700472a0adbe": {
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "seen_at": "2026-11-21T03:18:24.890819+00:00"
+    },
+    "05d06a2ae37185a1550dd73a3abd6c04f6f98d5ceeef9152d246307752b82f12": {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "seen_at": "2026-11-21T03:18:24.890823+00:00"
+    },
+    "580903835fa712d86c8cbec3779510c82c710f8997fa2b21298848a3c3ac08b5": {
+      "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+      "url": "https://www.theverge.com/games/1036279/gta-vi-sales",
+      "seen_at": "2026-11-21T03:18:24.890826+00:00"
+    },
+    "824c03b970f1dc58cad676334e63167d2af3b369add30c83b73e4ecb318d913d": {
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "seen_at": "2026-11-21T03:18:24.890830+00:00"
+    },
+    "68ddb817fe4001c0fc7b71404e8ed33269a5f57651ec2110d7ae5f13ebb157e7": {
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "seen_at": "2026-11-21T03:18:24.890834+00:00"
     }
   },
   "repositories": {
@@ -1293,5 +1333,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-20T22:19:20.571393+00:00"
+  "last_updated": "2026-11-21T03:18:24.890908+00:00"
 }
