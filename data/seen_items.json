@@ -1159,6 +1159,46 @@
       "title": "Advancing computer-use agents for healthcare teams",
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "seen_at": "2026-11-21T18:10:10.785728+00:00"
+    },
+    "f65a0c30765c29572476e6ce739380d26ef276f002f950de67518cd12509d46d": {
+      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+      "seen_at": "2026-11-21T23:19:16.469551+00:00"
+    },
+    "69dbf907dcbbc0b629bf5c7728300cfd9384032a283cf13f937ad28f63f2ea63": {
+      "title": "Amazon is complaining about NYC Council on shipping labels, too",
+      "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+      "seen_at": "2026-11-21T23:19:16.469572+00:00"
+    },
+    "7289e21f33e265e97a89457e8874498959fdf3c193ec812177245344db63d11e": {
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "seen_at": "2026-11-21T23:19:16.469580+00:00"
+    },
+    "3f9a1420c7864ab1d86520c136f9454dcd4332bf284471887ccde74b18c31baa": {
+      "title": "Advice for the next 100 Rust GUIs",
+      "url": "https://linebender.org/blog/next-100-guis/",
+      "seen_at": "2026-11-21T23:19:16.469585+00:00"
+    },
+    "463fc0d9ef3ab4679c26c3d0853883ed3440ff604d2cc4ba4746340f97b7b2f3": {
+      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+      "url": "https://tasklet.ai/careers",
+      "seen_at": "2026-11-21T23:19:16.469590+00:00"
+    },
+    "60f3c7381bc61eae5e3d002a0ecfce30c3913c926a7778f89e799b4b1d0cc1eb": {
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "seen_at": "2026-11-21T23:19:16.469595+00:00"
+    },
+    "3d4aeac88b69acfaa9cd944cf75b07a9d89f3c8d684549bae7f0b762916da940": {
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "seen_at": "2026-11-21T23:19:16.469599+00:00"
+    },
+    "8ec21efa2c62273428cb36f48412c205c966c9e1c9840d1b4a0d5276d99867ca": {
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "seen_at": "2026-11-21T23:19:16.469604+00:00"
     }
   },
   "repositories": {
@@ -1413,5 +1453,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-21T18:10:10.785792+00:00"
+  "last_updated": "2026-11-21T23:19:16.469690+00:00"
 }
