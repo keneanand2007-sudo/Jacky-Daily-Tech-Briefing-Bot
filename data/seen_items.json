@@ -1279,6 +1279,31 @@
       "title": "Perplexity and Intelligence",
       "url": "https://openai.com/index/perplexity-and-intelligence",
       "seen_at": "2026-11-22T18:40:23.775483+00:00"
+    },
+    "61d8127e693f0b0f3ba7ef2dc32bc9bfe97d415c3f165973c0ab2ef8ad20a2b9": {
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "seen_at": "2026-11-22T23:52:49.767729+00:00"
+    },
+    "ed521b837e0aa86cc234a86a6345d3c8ecf750b252f34f7a44f99e61974b9184": {
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "seen_at": "2026-11-22T23:52:49.767752+00:00"
+    },
+    "7d27fffa3906bd9ac7f9426261752d0e40282d15cac34ab9d5716328c5bd1d95": {
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "seen_at": "2026-11-22T23:52:49.767760+00:00"
+    },
+    "7435df697c669a75d307dac6bd00e3a2c5a7c064fe5da10e25785473eedc71b6": {
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "seen_at": "2026-11-22T23:52:49.767764+00:00"
+    },
+    "1da50c24753579701adc6b5893a35d8e32876f65d65e605cfd5e0a0d2f7e69c7": {
+      "title": "‘You Can See Everything’ has made more than $100M worldwide",
+      "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+      "seen_at": "2026-11-22T23:52:49.767769+00:00"
     }
   },
   "repositories": {
@@ -1533,5 +1558,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-22T18:40:23.775563+00:00"
+  "last_updated": "2026-11-22T23:52:49.767856+00:00"
 }
