@@ -1199,6 +1199,31 @@
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "url": "https://huggingface.co/blog/openrouter",
       "seen_at": "2026-11-21T23:19:16.469604+00:00"
+    },
+    "b9d1c9e9c4cc8c6bd95a9938a8e997f40281fbecbb7054cda3a782090cd65cee": {
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "seen_at": "2026-11-22T03:18:06.334131+00:00"
+    },
+    "06c62bbf6e86ef33e9e0af164e748036a2271654df3b661cd1b43503316b7e07": {
+      "title": "Meta ads is now available in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/meta-ads-is-now-available-in-aws-quick/",
+      "seen_at": "2026-11-22T03:18:06.334147+00:00"
+    },
+    "ac21c9fc636ff92a8a5919b4e6d7919f1b82a9dc77ca3bd1f39ed9c77ac5704f": {
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "seen_at": "2026-11-22T03:18:06.334151+00:00"
+    },
+    "8ed913cfa76c678b6975203881a5d4c289b146fa226093db58ea135d113533af": {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "seen_at": "2026-11-22T03:18:06.334155+00:00"
+    },
+    "ec8e761e0eb8542f51eeee0f62a4efae570851e80599393785ea8de9b54a299f": {
+      "title": "The UN fails to agree on rules regulating ‘killer robots’",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "seen_at": "2026-11-22T03:18:06.334163+00:00"
     }
   },
   "repositories": {
@@ -1453,5 +1478,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-21T23:19:16.469690+00:00"
+  "last_updated": "2026-11-22T03:18:06.334239+00:00"
 }
