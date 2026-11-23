@@ -1329,6 +1329,36 @@
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
       "seen_at": "2026-11-23T05:34:06.106638+00:00"
+    },
+    "1100af5b02a1190fac547176d695ba0e986732829d82627624f1c6b1d53a2178": {
+      "title": "CrowdStrike to acquire Zscaler for $44 billion",
+      "url": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+      "seen_at": "2026-11-23T16:28:17.360750+00:00"
+    },
+    "8d83fbfc47ac58f7eccfca6f539cc49f37f41500c0e84f90568f6915ff29d995": {
+      "title": "Ladybird Is Now in Alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "seen_at": "2026-11-23T16:28:17.360773+00:00"
+    },
+    "86ade5d346c2c5123b0db6bfb917a2cf4a756abea0e12bee561335f3921ce685": {
+      "title": "Buckle Up the AI Bubble Is Popping",
+      "url": "https://mathbabe.org/2026/11/23/buckle-up-the-ai-bubble-is-popping/",
+      "seen_at": "2026-11-23T16:28:17.360781+00:00"
+    },
+    "51e551e855adcaf8d8e8f14fe0e06c5992fb4e5f2ea51bd150b31f1b58741bab": {
+      "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+      "url": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+      "seen_at": "2026-11-23T16:28:17.360787+00:00"
+    },
+    "19a9d00e5b7bf36f740a803c79608ce2d2b0b4f4700cbc027ee93e60ae2f88e7": {
+      "title": "One Man's Quest to End Daylight Savings",
+      "url": "https://www.newyorker.com/magazine/2026/11/30/one-mans-quest-to-end-daylight-savings",
+      "seen_at": "2026-11-23T16:28:17.360794+00:00"
+    },
+    "00d52199bef25f9eda98fa79c30b3c80d4e34af93f50b3c1b0911b599d05708b": {
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "seen_at": "2026-11-23T16:28:17.360800+00:00"
     }
   },
   "repositories": {
@@ -1583,5 +1613,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-23T05:34:06.106711+00:00"
+  "last_updated": "2026-11-23T16:28:17.360875+00:00"
 }
