@@ -1304,6 +1304,31 @@
       "title": "‘You Can See Everything’ has made more than $100M worldwide",
       "url": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
       "seen_at": "2026-11-22T23:52:49.767769+00:00"
+    },
+    "f0e1718c2a731d5ae3dcfc03b4d81a2539f6973190fd33f919d51e96925cc3fc": {
+      "title": "Mass destruction of weapons",
+      "url": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
+      "seen_at": "2026-11-23T05:34:06.106599+00:00"
+    },
+    "b7cf04a84828baaf8d2fabf3cb5ac877c315df8f2ed90c2f42b0af5a29342ad9": {
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "seen_at": "2026-11-23T05:34:06.106622+00:00"
+    },
+    "ae472c7b7ff72c9f0029a057b65f20371864eebea30e07e0dba6e91f0919bc39": {
+      "title": "The New Docker: Built to Run on Trust",
+      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "seen_at": "2026-11-23T05:34:06.106629+00:00"
+    },
+    "587386f956d0e5457b0e1ece11dbf88d7d01672e458f11e90d482e9489d9dec1": {
+      "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
+      "url": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
+      "seen_at": "2026-11-23T05:34:06.106634+00:00"
+    },
+    "04e5e033b7998e4feb3c5278d1c3f5cdb4135dd575ade7a858b8ef4e29b36942": {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "seen_at": "2026-11-23T05:34:06.106638+00:00"
     }
   },
   "repositories": {
@@ -1558,5 +1583,5 @@
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
     }
   },
-  "last_updated": "2026-11-22T23:52:49.767856+00:00"
+  "last_updated": "2026-11-23T05:34:06.106711+00:00"
 }
