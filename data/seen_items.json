@@ -1359,6 +1359,46 @@
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals",
       "seen_at": "2026-11-23T16:28:17.360800+00:00"
+    },
+    "0ff2877103f30dc0bf7bf22f960e291200a6b80103eee540f5d40e97899ecc8c": {
+      "title": "Google alternative Kagi launches an email service",
+      "url": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+      "seen_at": "2026-11-24T03:02:30.492369+00:00"
+    },
+    "d42171599ff148708470b4b9c5112f5c4dfe2301145b4bcc0d97e5df4a67760a": {
+      "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+      "url": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+      "seen_at": "2026-11-24T03:02:30.492387+00:00"
+    },
+    "b0689cf87ab570a441c88635b910134907af4a34b0ffafe4d1af03d0273e75fa": {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "seen_at": "2026-11-24T03:02:30.492393+00:00"
+    },
+    "990f58ceeb055fd185ae5dcf35b73238b71631e8127518237ce1a837e94e898b": {
+      "title": "Supercharging transformer residual connections",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "seen_at": "2026-11-24T03:02:30.492398+00:00"
+    },
+    "eb2701ff66febea2729388256362b1e990ea44c9d3e87f78378f64a362cb43e9": {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "seen_at": "2026-11-24T03:02:30.492402+00:00"
+    },
+    "845fd769a93fbee843d7e56c045b10143bf592a4173d9d4385f8d0f681e44a3c": {
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "seen_at": "2026-11-24T03:02:30.492407+00:00"
+    },
+    "48003ca6dcdc0ce99136315953226619104e6b66f4e27d176b590cd9074833a7": {
+      "title": "Introducing Amazon SageMaker HyperPod Global Inference Gateway: One endpoint across Regions and clusters",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-hyperpod-global-inference-gateway-one-endpoint-across-regions-and-clusters/",
+      "seen_at": "2026-11-24T03:02:30.492412+00:00"
+    },
+    "8ece5e32cabe185a3b884d3491bdf01a4b2df40c1644eacf48a49dd565ee962e": {
+      "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
+      "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
+      "seen_at": "2026-11-24T03:02:30.492416+00:00"
     }
   },
   "repositories": {
@@ -1611,7 +1651,12 @@
       "title": "ossu/computer-science",
       "url": "https://github.com/ossu/computer-science",
       "seen_at": "2026-11-16T20:22:36.880767+00:00"
+    },
+    "7b4c4cdfec837e96d479989858e22394c2d78a546f3e36a1a15314ca8cc5c48b": {
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-23T16:28:17.360875+00:00"
+  "last_updated": "2026-11-24T03:02:30.492517+00:00"
 }
