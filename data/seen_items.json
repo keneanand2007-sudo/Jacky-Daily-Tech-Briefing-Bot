@@ -1439,6 +1439,46 @@
       "title": "Connected intelligence for in-house legal",
       "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
       "seen_at": "2026-11-24T13:32:22.566436+00:00"
+    },
+    "ff223207a8480ef44ca3e79bcd7361f4ef5761cdb0879d0ad947553c825753c7": {
+      "title": "Jensen Huang Spy Story Is a Hoax",
+      "url": "https://www.kenklippenstein.com/p/jensen-huang-spy-story-is-a-hoax",
+      "seen_at": "2026-11-24T23:14:59.698829+00:00"
+    },
+    "3f66369c8927dc1a5f3b57408e3471d18c13822cc5645301d8e8c0197613e2d4": {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "seen_at": "2026-11-24T23:14:59.698847+00:00"
+    },
+    "c8eac803e623f9c2d25cc89cf2d804e4787812e2263d3c4cf3636b6e09d0d5fd": {
+      "title": "Huawei found guilty of stealing trade secrets",
+      "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+      "seen_at": "2026-11-24T23:14:59.698852+00:00"
+    },
+    "9ee11b87ddc3e78fd77d749ca1cf416c72ce8971ae949eae12366bb435547e9c": {
+      "title": "Heart attack and stroke risk detectable decades in advance",
+      "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+      "seen_at": "2026-11-24T23:14:59.698863+00:00"
+    },
+    "cdb2f28a850e9635c5078fd0a7640a30f799a97fdbac1b131849fc5c77e83377": {
+      "title": "An unclassified CIA system was breached in a cyberattack",
+      "url": "https://apnews.com/article/cia-cyberattack-unclassified-system-bfa6d3b02e3b0e2779dfb613c900bd77",
+      "seen_at": "2026-11-24T23:14:59.698868+00:00"
+    },
+    "6a28e842b3bf4bfd8400220ee7c0735b0ecf3e38a0b3cb368303e1e3a450e25f": {
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "seen_at": "2026-11-24T23:14:59.698873+00:00"
+    },
+    "ac2f786b30f6d45772c42167559dc1dfd027b2c713b30efaaeedeee5585de3fa": {
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "seen_at": "2026-11-24T23:14:59.698877+00:00"
+    },
+    "7758c04a629331bf96383fb7f46e256dce8c50dc19007956b18ca6b429d0aeb8": {
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "seen_at": "2026-11-24T23:14:59.698881+00:00"
     }
   },
   "repositories": {
@@ -1698,5 +1738,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-24T13:32:22.566518+00:00"
+  "last_updated": "2026-11-24T23:14:59.698950+00:00"
 }
