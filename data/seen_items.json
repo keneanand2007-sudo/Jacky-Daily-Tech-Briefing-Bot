@@ -1399,6 +1399,46 @@
       "title": "Announcing Amazon Textract Insights: Verifiable generative AI for documents",
       "url": "https://aws.amazon.com/blogs/machine-learning/announcing-amazon-textract-insights-verifiable-generative-ai-for-documents/",
       "seen_at": "2026-11-24T03:02:30.492416+00:00"
+    },
+    "13e106216370eb8cf07bf56c2433c779c5f03e9facf9cc4be6547845dcdf3e8b": {
+      "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+      "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+      "seen_at": "2026-11-24T13:32:22.566367+00:00"
+    },
+    "168dc9e0fda6e685b93a00e2e1ddb207064a8d85f4cb7ddcff9ef7d822ab6991": {
+      "title": "Uber, Nuro, and Lucid kick off fully driverless robotaxi testing",
+      "url": "https://www.theverge.com/transportation/1040676/uber-nuro-lucid-driverless-robotaxi-testing-bay-area",
+      "seen_at": "2026-11-24T13:32:22.566387+00:00"
+    },
+    "923c0e4c62bee1845095adaca7fd62844bf035f8ce1a3990682c0e6d72724403": {
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "seen_at": "2026-11-24T13:32:22.566400+00:00"
+    },
+    "49d8e71992a79ea5c8ce2ef3915f9225c21598a375f02897287edfcc3262a9c1": {
+      "title": "Who in Washington owns and trades Nvidia stock",
+      "url": "https://www.kadoa.com/congress/insights/trump-nvidia",
+      "seen_at": "2026-11-24T13:32:22.566408+00:00"
+    },
+    "a70a9c7319b606ad356231f360ba62d9882dd14afc998317fbef981b6ed31075": {
+      "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+      "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+      "seen_at": "2026-11-24T13:32:22.566416+00:00"
+    },
+    "54f2316ecc01fa7ace1e397f690ba0d8d04013386e9434efe67ced43f5318e8c": {
+      "title": "Merry Making: Play, Build and Create With NVIDIA Technologies This Holiday Season",
+      "url": "https://blogs.nvidia.com/blog/nvidia-technologies-holidays-2026/",
+      "seen_at": "2026-11-24T13:32:22.566422+00:00"
+    },
+    "3ffa5c39e01e3431aafb68b86f47a423cad3918397f531b6569292d3719a69a5": {
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "seen_at": "2026-11-24T13:32:22.566429+00:00"
+    },
+    "10878202550bbbf922d1872ab8ac87272ec1fb51ba1f61195752ed3c5f3ba59c": {
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "seen_at": "2026-11-24T13:32:22.566436+00:00"
     }
   },
   "repositories": {
@@ -1658,5 +1698,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-24T03:02:30.492517+00:00"
+  "last_updated": "2026-11-24T13:32:22.566518+00:00"
 }
