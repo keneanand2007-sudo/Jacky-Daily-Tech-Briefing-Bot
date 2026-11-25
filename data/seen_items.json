@@ -1519,6 +1519,41 @@
       "title": "Clay helps sales teams win with Codex and ChatGPT",
       "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
       "seen_at": "2026-11-25T05:29:31.576873+00:00"
+    },
+    "83c720737670cec63bea5f68dba40a0c79410f0944406f814bc88c6cacbe21fc": {
+      "title": "In C++, = default and {} are not the same constructor",
+      "url": "https://lemire.me/blog/2026/11/02/default-and-braces-are-not-the-same-constructor/",
+      "seen_at": "2026-11-25T15:59:06.229773+00:00"
+    },
+    "d42926b77486ada8f0e67c9057680d83b4c5f535a9b4b1db503d70ea0517ba11": {
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "seen_at": "2026-11-25T15:59:06.229799+00:00"
+    },
+    "90af623726060850df96bcb92b79c07512708986e587ef27721d88be7093c121": {
+      "title": "Rumors swirling that labs might have cracked Factoring in P",
+      "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
+      "seen_at": "2026-11-25T15:59:06.229810+00:00"
+    },
+    "00dcbf37e519cb3f177fe934a4a8c140182ea76a2af4744fe5a9922c34b205b3": {
+      "title": "Allstate suffers multi-day tech outage ahead of Thanksgiving",
+      "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "seen_at": "2026-11-25T15:59:06.229817+00:00"
+    },
+    "0c4f60e8a6166defb0a9b3237c049012c9d5d5bfb88435883bcf0743b5c45897": {
+      "title": "The Verge’s guide to affordable holiday gifts under $25",
+      "url": "https://www.theverge.com/gadgets/1023735/best-gifts-under-25-2026",
+      "seen_at": "2026-11-25T15:59:06.229824+00:00"
+    },
+    "0077e07924e43bf73f6b214e80c2636fd705749c1e6b72af3b822ac4ce5e9fb4": {
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "seen_at": "2026-11-25T15:59:06.229830+00:00"
+    },
+    "1259b534687dd8b3171199ff6c1e4d274ef5d072ac6513620703d8171072ee72": {
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "seen_at": "2026-11-25T15:59:06.229837+00:00"
     }
   },
   "repositories": {
@@ -1778,5 +1813,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-25T05:29:31.576938+00:00"
+  "last_updated": "2026-11-25T15:59:06.229916+00:00"
 }
