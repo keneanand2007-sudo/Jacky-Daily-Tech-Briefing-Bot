@@ -1479,6 +1479,46 @@
       "title": "Searching for distant planets with Astra",
       "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
       "seen_at": "2026-11-24T23:14:59.698881+00:00"
+    },
+    "66ea520c958402f65fa8e17491bf9d4a60c3f16697d206740ded335407fc9983": {
+      "title": "Invisible Wave Hits California, Oregon and Canada as Towns Evacuate",
+      "url": "https://www.abovethenormnews.com/2026/11/24/king-tides-california/",
+      "seen_at": "2026-11-25T05:29:31.576822+00:00"
+    },
+    "69b3bab9abed3f89648e0a83a28f6463e4cb6de22dd5695981086d9e2fae8a54": {
+      "title": "Show HN: U.S. Interstate Weather",
+      "url": "https://www.interstateweather.com/",
+      "seen_at": "2026-11-25T05:29:31.576845+00:00"
+    },
+    "1ac09a398b6e2ac9503a3f9264fce1eadf479fe0f4464c9208854329db628720": {
+      "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "seen_at": "2026-11-25T05:29:31.576852+00:00"
+    },
+    "b260aefcebf2b187e437741334b9ff9f8fd274720eb6133d690fbd6085813916": {
+      "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
+      "url": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
+      "seen_at": "2026-11-25T05:29:31.576856+00:00"
+    },
+    "11304642d4ef0ee9b5604991ff44d8c01746500ac72abb0a02d8666ca75f555e": {
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "seen_at": "2026-11-25T05:29:31.576861+00:00"
+    },
+    "7e14b56be674430859075a7f0bce62ec43b4bbfbd056d91f846c666ac01fbfaf": {
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "seen_at": "2026-11-25T05:29:31.576865+00:00"
+    },
+    "89a905d5eae9fa3ef5a8af6c1b3d6471a3626169568a0058a355675d3a41557f": {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "seen_at": "2026-11-25T05:29:31.576869+00:00"
+    },
+    "a3c9028eefd69cfd15ff27f48e02556532b9ed7a8c483b2a5ba430ca611a8783": {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "seen_at": "2026-11-25T05:29:31.576873+00:00"
     }
   },
   "repositories": {
@@ -1738,5 +1778,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-24T23:14:59.698950+00:00"
+  "last_updated": "2026-11-25T05:29:31.576938+00:00"
 }
