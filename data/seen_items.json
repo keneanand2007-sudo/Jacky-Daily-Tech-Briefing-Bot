@@ -1594,6 +1594,41 @@
       "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
       "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
       "seen_at": "2026-11-26T00:11:19.769187+00:00"
+    },
+    "e2ac2e209969c35f750b80f0d81743bcb79e17295a2361da8c9948b57da343d7": {
+      "title": "Moat: Your OpenRouter Replacement",
+      "url": "https://commandcode.ai/moat",
+      "seen_at": "2026-11-26T08:25:47.997824+00:00"
+    },
+    "f7e705e01dfe92d0eead474e20db425dc3bb0d723560c0707187eee033c03d63": {
+      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "seen_at": "2026-11-26T08:25:47.997841+00:00"
+    },
+    "3d2697b636d74b834fc0e7341d4d275b2177cb68cfa6554cf0431f54189d28f2": {
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "seen_at": "2026-11-26T08:25:47.997846+00:00"
+    },
+    "bfa95f785c224519fd43f3d2ed4b9261fe13e593fd4f17a89be02a9572c328dc": {
+      "title": "Qualcomm's Oryon 3 Reaches the Top",
+      "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+      "seen_at": "2026-11-26T08:25:47.997850+00:00"
+    },
+    "d7b28b808e94d828093f014802e22eeb767a71557fe7cdf7d21bf136bc8ca687": {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "seen_at": "2026-11-26T08:25:47.997854+00:00"
+    },
+    "c91a30b4e6522b01bf534e47099b9230e9b91f5f60dacb22893a7b8dd0e94932": {
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "seen_at": "2026-11-26T08:25:47.997857+00:00"
+    },
+    "10ef75306f1db512480f0ddb83729e99e3809c2db3b0800b6d0a173f710eb4b6": {
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+      "seen_at": "2026-11-26T08:25:47.997861+00:00"
     }
   },
   "repositories": {
@@ -1853,5 +1888,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-26T00:11:19.769263+00:00"
+  "last_updated": "2026-11-26T08:25:47.997913+00:00"
 }
