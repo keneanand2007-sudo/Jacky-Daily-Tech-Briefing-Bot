@@ -1629,6 +1629,46 @@
       "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
       "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
       "seen_at": "2026-11-26T08:25:47.997861+00:00"
+    },
+    "5896797fd3159e6ec9f78c44b68499b3777c3e2721cb4c67c2f3f817d8145c56": {
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "seen_at": "2026-11-26T18:35:32.387909+00:00"
+    },
+    "a0439c16159af772d6b3f2ab49e1648ee0828a1e5ddac3c2b474712adc36d0d0": {
+      "title": "YouTube Ad Punisher – Bypass anti-adblock",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "seen_at": "2026-11-26T18:35:32.387927+00:00"
+    },
+    "c07b74d3a070b84a2664b85bf103602c13e5c868a8e6bcb83abfb0f932329e71": {
+      "title": "Tracking Diseases Cured by AI",
+      "url": "https://diseasescuredbyai.com/",
+      "seen_at": "2026-11-26T18:35:32.387932+00:00"
+    },
+    "0b8d021f35916d5118e3596cdd88a818615be2ae826768f586e7aa34deda21a9": {
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "seen_at": "2026-11-26T18:35:32.387937+00:00"
+    },
+    "ad78321ace8680254f265debe4a8e15c8faf9843a28d887b54f02dc5718d2913": {
+      "title": "Android app developers will soon have to share their address publicly",
+      "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+      "seen_at": "2026-11-26T18:35:32.387941+00:00"
+    },
+    "bfa1ad995803f938bdb54973298860d2dd4c1d7322cf6f5e41636e91cfa8bf1d": {
+      "title": "Come for the Games, Stay for the Community With GeForce NOW",
+      "url": "https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/",
+      "seen_at": "2026-11-26T18:35:32.387944+00:00"
+    },
+    "a734da9d3a1d876054f86e6e92e632f9c2a091a208fef8a96dd4cc4467d6055b": {
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "seen_at": "2026-11-26T18:35:32.387948+00:00"
+    },
+    "819f2bb8e324e5e7f3ab174fd75a2e35e495da76ab1ed0dc431b91e93d876cbf": {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "seen_at": "2026-11-26T18:35:32.387951+00:00"
     }
   },
   "repositories": {
@@ -1888,5 +1928,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-26T08:25:47.997913+00:00"
+  "last_updated": "2026-11-26T18:35:32.388010+00:00"
 }
