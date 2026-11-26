@@ -1554,6 +1554,46 @@
       "title": "Richpanel helps companies automate 50% of support in 30 days",
       "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
       "seen_at": "2026-11-25T15:59:06.229837+00:00"
+    },
+    "54e67f56863fdec143e46c47a22b7ae1a2312423ce2adddea65b0c0312d129f1": {
+      "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+      "url": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+      "seen_at": "2026-11-26T00:11:19.769140+00:00"
+    },
+    "4813dbe88c162a413c9c8aadcb0d9c4ad2e779d243cda8ae9b1e7d666a30a072": {
+      "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+      "url": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+      "seen_at": "2026-11-26T00:11:19.769159+00:00"
+    },
+    "1de64629ab8b75e56cd0c497eff9e6b7fae9fd8f923a41578a66e616518bbfd9": {
+      "title": "Jev is (probably) Qwen3.5-35B-A3B",
+      "url": "https://modaic.dev/blog/latency-doesnt-lie",
+      "seen_at": "2026-11-26T00:11:19.769165+00:00"
+    },
+    "acd1839cbac010dd245e0e2695bfe3b72664d9c4da6410797b1d3ff2745b2545": {
+      "title": "Bare Metal Qwen",
+      "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+      "seen_at": "2026-11-26T00:11:19.769169+00:00"
+    },
+    "54aab75d4144aacc5cbd758dee1135469508365d7f1dda2b0f11a6846619e22e": {
+      "title": "Deploying a payphone on a tiny Pacific Island for fun and zero profit",
+      "url": "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+      "seen_at": "2026-11-26T00:11:19.769174+00:00"
+    },
+    "88bd06d7e0e9b82f43a3c7b49740216e6a1dfae7affc60d91ec0a4415c5ccb91": {
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "seen_at": "2026-11-26T00:11:19.769178+00:00"
+    },
+    "c232ab95006f02e0b53c6351af4b7e205132699af018ccbf6501e0405ddb8cf4": {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "seen_at": "2026-11-26T00:11:19.769182+00:00"
+    },
+    "df3be113c8aed13fbadf7f5fd23bf1c3fea1d6aa84ef1d6c6b80d5e4f468adf1": {
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "seen_at": "2026-11-26T00:11:19.769187+00:00"
     }
   },
   "repositories": {
@@ -1813,5 +1853,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-25T15:59:06.229916+00:00"
+  "last_updated": "2026-11-26T00:11:19.769263+00:00"
 }
