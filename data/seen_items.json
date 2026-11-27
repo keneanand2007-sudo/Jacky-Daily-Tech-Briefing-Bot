@@ -1669,6 +1669,31 @@
       "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
       "url": "https://huggingface.co/blog/training-swarms",
       "seen_at": "2026-11-26T18:35:32.387951+00:00"
+    },
+    "4f8d724efa6652fd0327c1a192abfdd88b6189b00befd34236dcdc46e666b7ec": {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "seen_at": "2026-11-27T01:55:32.540016+00:00"
+    },
+    "c74df66d31bcb6720b4020dab5b7f136e52381fb2e2ef5f063acdf6cd38ce0d0": {
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "url": "https://kendell.dev/blog/arkwrapper/",
+      "seen_at": "2026-11-27T01:55:32.540035+00:00"
+    },
+    "aebfbe56731bd98a52c5ac3451e735c2673dc7f68b56294a13dd3318c1042dc1": {
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "seen_at": "2026-11-27T01:55:32.540040+00:00"
+    },
+    "db806ae0be60040dc8e26e95d639b46dce6da817069a69acf96d7817ad2137c9": {
+      "title": "Netflix’s coziest show has made a very quiet return",
+      "url": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+      "seen_at": "2026-11-27T01:55:32.540051+00:00"
+    },
+    "979e22972f743c1451fecf671f23348cdaf00d2fc2265c59a52b630be4da88ee": {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "seen_at": "2026-11-27T01:55:32.540057+00:00"
     }
   },
   "repositories": {
@@ -1928,5 +1953,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-26T18:35:32.388010+00:00"
+  "last_updated": "2026-11-27T01:55:32.540135+00:00"
 }
