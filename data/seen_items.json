@@ -1719,28 +1719,58 @@
       "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
       "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
       "seen_at": "2026-11-27T10:39:25.527900+00:00"
+    },
+    "6131694ce6ba016446ccafed6c916cf3d27fa72a906ad80d954ed5ceca9a8868": {
+      "title": "The best Black Friday deals on smart home gear",
+      "url": "https://www.theverge.com/gadgets/1043912/best-smart-home-deals-black-friday",
+      "seen_at": "2026-11-27T19:39:42.856875+00:00"
+    },
+    "380a8b99d4b442223647f63d3969d9fffd98fb381616290869332a6392ff6fa8": {
+      "title": "Anker’s 100W universal travel charger is down to $60, its lowest price yet",
+      "url": "https://www.theverge.com/gadgets/1041006/anker-100w-universal-travel-charger-black-friday-deal-sale",
+      "seen_at": "2026-11-27T19:39:42.856895+00:00"
+    },
+    "de1007aa48917d8165340a2c0fea2385c2847f3077e2350ea5b4dddc042ff15e": {
+      "title": "The NFL Player Who Left Football for Math",
+      "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+      "seen_at": "2026-11-27T19:39:42.856902+00:00"
+    },
+    "42b6c44ba3384d39e7e58d31cb3140a7901dfb0360ea40079e497ddd3a15d4de": {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "seen_at": "2026-11-27T19:39:42.856914+00:00"
+    },
+    "117d78644729ba213d55127efc66d916452e1ae8e5ba7f7a6fbb9e231cf5ed61": {
+      "title": "I'm Scared of AI",
+      "url": "https://thesoapbox.email/archive/3",
+      "seen_at": "2026-11-27T19:39:42.856925+00:00"
+    },
+    "c2bd7953104652e48b060cb836c5b0b220f5916987e34c7cb4215ee5c922c5b1": {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "seen_at": "2026-11-27T19:39:42.856935+00:00"
     }
   },
   "repositories": {
     "0fac45359c2058b499648b5eb3c303324df11a4e8665b54e7996b6b81aa0b6f0": {
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "seen_at": "2026-11-13T18:30:34.264417+00:00"
+      "seen_at": "2026-11-27T19:39:42.856945+00:00"
     },
     "0658d7fa2f877963fc8bbc1645c8cf4fea9ea47495521d064c5f014cc5aec79e": {
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "seen_at": "2026-11-13T18:30:34.264423+00:00"
+      "seen_at": "2026-11-27T19:39:42.856955+00:00"
     },
     "a5b6cf30f0c2b39ab866774e61de70b533f2e7ef10e2f3772a8915e65ceed7ef": {
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "seen_at": "2026-11-13T18:30:34.264428+00:00"
+      "seen_at": "2026-11-27T19:39:42.856963+00:00"
     },
     "f63476205a959f3f3803c2283f365f6a535c10385461088bf7672df4b747dd4e": {
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "seen_at": "2026-11-13T18:30:34.264435+00:00"
+      "seen_at": "2026-11-27T19:39:42.856971+00:00"
     },
     "bfef0c14f46af5da34f699a433d9bdfb9ef9e6eb1b283596ecb2d7f39cd88479": {
       "title": "NousResearch/hermes-agent",
@@ -1978,5 +2008,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-27T10:39:25.527977+00:00"
+  "last_updated": "2026-11-27T19:39:42.857053+00:00"
 }
