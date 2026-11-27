@@ -1694,6 +1694,31 @@
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "seen_at": "2026-11-27T01:55:32.540057+00:00"
+    },
+    "10f46cafaeb1f4a94382f8d405ffafc24f7bf08312f85b13bee5db1c6152914f": {
+      "title": "Our favorite headphones and earbuds are cheaper than ever ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1040292/best-black-friday-headphone-earbud-deals-2026",
+      "seen_at": "2026-11-27T10:39:25.527859+00:00"
+    },
+    "383ec1a8db7b2d41d599c66e7c5793f1b4bc321ce15c90bb7401b472020ef145": {
+      "title": "'Cyber incident' forces UK Gov to take some services offline",
+      "url": "https://www.bbc.co.uk/news/live/c6rrg94lgjrjt",
+      "seen_at": "2026-11-27T10:39:25.527877+00:00"
+    },
+    "328423d917a01424e6835aa2858655ed853f06e1df3cb83f239299deb362b5e4": {
+      "title": "The absolute best Black Friday deals we’ve found (so far)",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "seen_at": "2026-11-27T10:39:25.527884+00:00"
+    },
+    "b645d71050c86d3dc77818e2a9ffe526f0d375d0c89debb1b825d3555f617174": {
+      "title": "Claude sabotaging SOTA ML research tasks",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "seen_at": "2026-11-27T10:39:25.527894+00:00"
+    },
+    "a4143152a7192b5658398a7291c0356db84303905cad0746fac3befa560bb369": {
+      "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+      "url": "https://open-web-advocacy.org/es/blog/commission-responds-declares-browser-competition-a-dma-priority/",
+      "seen_at": "2026-11-27T10:39:25.527900+00:00"
     }
   },
   "repositories": {
@@ -1953,5 +1978,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-27T01:55:32.540135+00:00"
+  "last_updated": "2026-11-27T10:39:25.527977+00:00"
 }
