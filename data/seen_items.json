@@ -1749,6 +1749,31 @@
       "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
       "url": "https://huggingface.co/blog/video-trainium3",
       "seen_at": "2026-11-27T19:39:42.856935+00:00"
+    },
+    "37881cc6652cee7391573b356ac3979ddaea9a70de21f21c9df6fa1975ad27a2": {
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "seen_at": "2026-11-28T02:12:01.293838+00:00"
+    },
+    "117a0da82d3c22700b748a5b157b9532fb5edbfd07dbbc1a5df0ffec67b1272f": {
+      "title": "We found 60-odd Black Friday deals we love for $100 or less",
+      "url": "https://www.theverge.com/gadgets/1043445/black-friday-best-cheap-tech-deals-under-100-2026",
+      "seen_at": "2026-11-28T02:12:01.293859+00:00"
+    },
+    "ae676b94785f65f7d358b31535dbbdca53dbf753edffefa3c3a1a32f233e84bb": {
+      "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+      "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+      "seen_at": "2026-11-28T02:12:01.293866+00:00"
+    },
+    "ac0ee698ab46bb9b755d34ce2d42bc614cc0b7d819c7645e40a2d99a5d78b001": {
+      "title": "This purple electric Chinese minivan can go up to 559 miles on a charge",
+      "url": "https://www.theverge.com/transportation/1044706/this-purple-electric-chinese-minivan-can-go-up-to-559-miles-on-a-charge",
+      "seen_at": "2026-11-28T02:12:01.293872+00:00"
+    },
+    "e854de786f3a044a0bfa3a254d43a66463734bb7b1dda647cd3f34e4ce39f65a": {
+      "title": "Passkey blues",
+      "url": "https://ssg.dev/passkey-blues/",
+      "seen_at": "2026-11-28T02:12:01.293877+00:00"
     }
   },
   "repositories": {
@@ -1775,22 +1800,22 @@
     "bfef0c14f46af5da34f699a433d9bdfb9ef9e6eb1b283596ecb2d7f39cd88479": {
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "seen_at": "2026-11-13T19:31:52.805385+00:00"
+      "seen_at": "2026-11-28T02:12:01.293890+00:00"
     },
     "dd500add2d21e1c75346780e2948a00ae24693353ef84d2d37c55148124cfd43": {
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "seen_at": "2026-11-13T19:31:52.805389+00:00"
+      "seen_at": "2026-11-28T02:12:01.293896+00:00"
     },
     "61b98383e7d935899f8d4a9094c16187a0354e5385dcd1d45f91e3574ab6f8e1": {
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "seen_at": "2026-11-13T19:31:52.805392+00:00"
+      "seen_at": "2026-11-28T02:12:01.293883+00:00"
     },
     "d3682563581ea69249623f7e6f1c9444a59e4d5fab77409eb5c10998afa409ed": {
       "title": "nilbuild/developer-roadmap",
       "url": "https://github.com/nilbuild/developer-roadmap",
-      "seen_at": "2026-11-13T19:31:52.805395+00:00"
+      "seen_at": "2026-11-28T02:12:01.293901+00:00"
     },
     "e411c5930cfbb1e941af483acc1ef27e3e5f137db660a2f075306375fe56e397": {
       "title": "huggingface/transformers",
@@ -2008,5 +2033,5 @@
       "seen_at": "2026-11-24T03:02:30.492421+00:00"
     }
   },
-  "last_updated": "2026-11-27T19:39:42.857053+00:00"
+  "last_updated": "2026-11-28T02:12:01.293996+00:00"
 }
